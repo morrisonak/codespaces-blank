@@ -1,0 +1,3555 @@
+Data Log                04-04-23    09:55:15
+
+CP WADE
+
+APPLICATION INFORMATION
+     NAME                 cp wadev
+     EPT CRC              D8E7
+     EPT Checksum         4B4A
+
+EXECUTIVE INFORMATION
+     PN                   083026-828
+     VER                  8.28 Bld0279F
+
+TIME INFORMATION
+     TIME ZONE            -6 hours from GMT
+     DAYLIGHT SAVINGS     Enabled / Active
+     TIME SYNC SOURCE     SNTP
+
+
+04-04-23 09:54:33 Vital Recorder Entry
+
+ET_HDR      =T  E_RCXR      =T  6963T_E4020 =T  6963T_EEOB  =F
+
+
+04-04-23 09:54:33 Vital Recorder Entry
+
+ET_C4_IN    =T  
+
+04-04-23 09:54:31 Non-Vital Recorder Entry
+
+CTC_LK      =F  CTC_6963TK  =F  
+
+04-04-23 09:54:31 Vital Recorder Entry
+
+OSTPR       =T  LR          =T  W_SR        =F  1TK         =F
+WAT_TDR     =F  6963TP      =T  16964T_EEOB1=T  6963T_WSR   =T
+6963T_L     =T  16964T_ECEN =T  16964T_EEOB =T  WAT_C2_OUT  =T
+WAT_C6_OUT  =F  6963TP2O    =T  6963T_WAL2O =T  
+
+04-04-23 09:54:30 Vital Recorder Entry
+
+1TPR        =T  
+
+04-04-23 09:54:24 Vital Recorder Entry
+
+16964T_EALI =F  
+
+04-04-23 09:54:23 Non-Vital Recorder Entry
+
+CTC_EAAK    =T  
+
+04-04-23 09:54:23 Vital Recorder Entry
+
+WASR        =T  WAT_HDR     =F  WATPR       =F  WATK        =T
+WRK         =F  16964T_ECS  =T  6963T_WCS   =F  16964TP     =F
+6963T_WCEN  =F  6963T_W40EB =F  16964T_PRC2O=F  
+
+04-04-23 09:54:23 Non-Vital Recorder Entry
+
+CTC_6826TK  =F  
+
+04-04-23 09:54:23 Vital Recorder Entry
+
+ETPR        =T  ETK         =F  6826T_WCS   =F  6826T_L     =T
+6826T_WSR   =T  6826T_WEOB2 =F  6826T_WEOB1 =F  6826TP      =T
+6826T_WEOB  =T  WAT_C1_IN   =F  WAT_C7_IN   =F  6963T_EEOB  =T
+6826TP2O    =T  
+
+04-04-23 09:54:22 Vital Recorder Entry
+
+ET_C1_IN    =T  
+
+04-04-23 09:54:20 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 09:54:20 Vital Recorder Entry
+
+1TPREN      =T  
+
+04-04-23 09:54:20 Non-Vital Recorder Entry
+
+NWZ         =F  
+
+04-04-23 09:54:20 Vital Recorder Entry
+
+1TR         =T  
+
+04-04-23 09:54:17 Vital Recorder Entry
+
+WBLCANZ     =T  ETBLCANZ    =T  
+
+04-04-23 09:54:17 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 09:54:17 Non-Vital Recorder Entry
+
+NWZ         =T  DLVRY       =T  CTC_WGZ     =F  
+
+04-04-23 09:54:12 Non-Vital Recorder Entry
+
+CTC_WGK     =F  CTC_6963TK  =T  
+
+04-04-23 09:54:12 Vital Recorder Entry
+
+OSTPR       =F  WGZ         =F  WGZP        =F  WAT_FSR     =T
+WHR         =F  WGR         =F  WRCR        =F  WAG         =F
+WRK         =T  WAR         =T  1TK         =T  6963TP      =F
+6826T_WEOB2 =T  6826T_WCEN  =F  6826T_W40EB =F  ET_C2_OUT   =T
+ET_C7_OUT   =F  WAGE        =F  WARE        =T  6963TP2O    =F
+16964T_PRC2O=T  
+
+04-04-23 09:54:11 Vital Recorder Entry
+
+1TPREN      =F  1TPR        =F  
+
+04-04-23 09:54:11 Vital Recorder Entry
+
+1TR         =F  
+
+04-04-23 09:52:17 Vital Recorder Entry
+
+6723TP      =T  6672T_WSR   =T  
+
+04-04-23 09:52:17 Vital Recorder Entry
+
+6672T_WSRI  =T  6826T_PRCI  =F  
+
+04-04-23 09:52:12 Non-Vital Recorder Entry
+
+CTC_6826TK  =T  
+
+04-04-23 09:52:12 Vital Recorder Entry
+
+W_SR        =T  ETPR        =F  ETK         =T  6963T_WCS   =T
+6826T_PRC   =F  6826TP      =F  6963T_WCEN  =T  6826TP2O    =F
+6963T_WAL2O =F  
+
+04-04-23 09:52:12 Vital Recorder Entry
+
+ET_C1_IN    =F  
+
+04-04-23 09:50:45 Vital Recorder Entry
+
+ET_C6_IN    =F  
+
+04-04-23 09:50:42 Vital Recorder Entry
+
+6672TP      =T  
+
+04-04-23 09:50:40 Vital Recorder Entry
+
+ET_C6_IN    =T  
+
+04-04-23 09:50:34 Vital Recorder Entry
+
+6826T_WCS   =T  6723TP      =F  6826T_WEOB1 =T  6826T_PRC   =T
+6826T_WCEN  =T  
+
+04-04-23 09:50:34 Vital Recorder Entry
+
+6826T_PRCI  =T  
+
+04-04-23 09:49:56 Vital Recorder Entry
+
+6671TP      =T  
+
+04-04-23 09:49:49 Vital Recorder Entry
+
+6671ATP     =T  
+
+04-04-23 09:49:48 Vital Recorder Entry
+
+6672TP      =F  
+
+04-04-23 09:49:37 Vital Recorder Entry
+
+6671TP      =F  
+
+04-04-23 09:49:29 Vital Recorder Entry
+
+6671ATP     =F  
+
+04-04-23 09:47:36 Vital Recorder Entry
+
+ET_C6_IN    =F  
+
+04-04-23 09:47:31 Vital Recorder Entry
+
+ET_HDR      =F  E_RCXR      =F  6963T_E4020 =F  
+
+04-04-23 09:47:31 Vital Recorder Entry
+
+ET_C4_IN    =F  ET_C6_IN    =T  
+
+04-04-23 09:47:17 Vital Recorder Entry
+
+6826T_L     =F  6826T_WSR   =F  6672T_WSR   =F  
+
+04-04-23 09:47:17 Vital Recorder Entry
+
+6672T_WSRI  =F  
+
+04-04-23 09:46:39 Vital Recorder Entry
+
+6963T_E4020 =T  6963T_E40EB =F  
+
+04-04-23 09:46:39 Vital Recorder Entry
+
+ET_C2_IN    =F  ET_C4_IN    =T  
+
+04-04-23 09:46:37 Vital Recorder Entry
+
+6671TP      =T  
+
+04-04-23 09:46:21 Vital Recorder Entry
+
+6672TP      =T  
+
+04-04-23 09:46:10 Vital Recorder Entry
+
+6671TP      =F  
+
+04-04-23 09:45:24 Vital Recorder Entry
+
+6723TP      =T  
+
+04-04-23 09:45:15 Vital Recorder Entry
+
+6672TP      =F  
+
+04-04-23 09:43:27 Vital Recorder Entry
+
+ET_HDR      =T  E_RCXR      =T  6963T_E40EB =T  6963T_EEOB  =F
+
+
+04-04-23 09:43:27 Vital Recorder Entry
+
+ET_C2_IN    =T  
+
+04-04-23 09:43:19 Non-Vital Recorder Entry
+
+CTC_6826TK  =F  
+
+04-04-23 09:43:19 Vital Recorder Entry
+
+W_SR        =F  ETPR        =T  ETK         =F  6826T_WCS   =F
+6963T_WCS   =F  6826T_L     =T  6826T_ESR   =T  6826T_WEOB1 =F
+6826TP      =T  6826T_WCEN  =F  6963T_EEOB  =T  6963T_WCEN  =F
+6826TP2O    =T  6963T_WAL2O =T  
+
+04-04-23 09:43:19 Vital Recorder Entry
+
+ET_C1_IN    =T  
+
+04-04-23 09:43:13 Vital Recorder Entry
+
+6723TP      =F  
+
+04-04-23 09:41:37 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 09:41:36 Non-Vital Recorder Entry
+
+NWZ         =F  
+
+04-04-23 09:41:35 Non-Vital Recorder Entry
+
+CTC_LK      =T  CTC_WGK     =T  
+
+04-04-23 09:41:35 Vital Recorder Entry
+
+WASR        =F  WGZ         =T  LR          =F  WGZP        =T
+W_SR        =T  WHR         =T  WGR         =T  WRCR        =T
+WAG         =T  WAR         =F  WAT_TDR     =T  6963T_WCS   =T
+6963T_WSR   =F  6963T_L     =F  16964T_WSR  =F  6826T_W40EB =T
+6826T_WEOB  =F  16964T_EEOB =F  ET_C2_OUT   =F  ET_C7_OUT   =T
+WAT_C2_OUT  =F  WAT_C6_OUT  =T  WAGE        =T  WARE        =F
+6963T_WCEN  =T  16964T_WSR2O=F  6963T_WAL2O =F  
+
+04-04-23 09:41:34 Vital Recorder Entry
+
+WBLCANZ     =T  ETBLCANZ    =T  
+
+04-04-23 09:41:34 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 09:41:33 Non-Vital Recorder Entry
+
+NWZ         =T  DLVRY       =T  CTC_WGZ     =T  
+
+04-04-23 09:41:14 Non-Vital Recorder Entry
+
+CTC_LK      =F  CTC_6963TK  =F  
+
+04-04-23 09:41:14 Vital Recorder Entry
+
+OSTPR       =T  LR          =T  WAT_FSR     =F  ET_TDR      =F
+1TK         =F  EA_SR       =F  6963TP      =T  6826T_WEOB1 =T
+6963T_L     =T  6963T_ESR   =T  6826T_WCEN  =T  6826T_WEOB  =T
+ET_C2_OUT   =T  ET_C6_OUT   =F  6963TP2O    =T  6963T_WAL2O =T
+
+
+04-04-23 09:41:14 Vital Recorder Entry
+
+1TPR        =T  
+
+04-04-23 09:41:10 Vital Recorder Entry
+
+WAT_HDR     =T  WAT_FSR     =T  WN_RCXR     =T  6963T_W40EB =T
+6963T_WEOB  =F  
+
+04-04-23 09:41:10 Vital Recorder Entry
+
+WAT_C7_IN   =T  
+
+04-04-23 09:41:09 Vital Recorder Entry
+
+16964T_EALI =T  
+
+04-04-23 09:41:08 Non-Vital Recorder Entry
+
+CTC_6826TK  =T  
+
+04-04-23 09:41:08 Vital Recorder Entry
+
+EA_ASR      =T  ET_HDR      =F  E_RCXR      =F  ETPR        =F
+ETK         =T  EARK        =F  6826T_WCS   =T  6963T_ECS   =F
+6826TP      =F  6963T_ECEN  =F  6963T_E4020 =F  6826TP2O    =F
+
+
+04-04-23 09:41:08 Vital Recorder Entry
+
+ET_C1_IN    =F  ET_C7_IN    =F  
+
+04-04-23 09:41:07 Non-Vital Recorder Entry
+
+CTC_EAAK    =F  
+
+04-04-23 09:41:07 Vital Recorder Entry
+
+WATPR       =T  WATK        =F  16964T_ECS  =F  16964T_EEOB2=F
+16964T_EEOB1=F  16964TP     =T  16964T_ESR  =T  16964T_EEOB =T
+6963T_WEOB  =T  
+
+04-04-23 09:41:07 Vital Recorder Entry
+
+WAT_C1_IN   =T  
+
+04-04-23 09:41:04 Vital Recorder Entry
+
+1TPREN      =T  WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 09:41:04 Vital Recorder Entry
+
+1TR         =T  
+
+04-04-23 09:41:04 Non-Vital Recorder Entry
+
+NWZ         =F  
+
+04-04-23 09:41:01 Vital Recorder Entry
+
+WBLCANZ     =T  ETBLCANZ    =T  
+
+04-04-23 09:41:01 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 09:41:01 Non-Vital Recorder Entry
+
+NWZ         =T  DLVRY       =T  CTC_EGZ     =F  
+
+04-04-23 09:40:56 Non-Vital Recorder Entry
+
+CTC_EGK     =F  CTC_6963TK  =T  
+
+04-04-23 09:40:56 Vital Recorder Entry
+
+OSTPR       =F  EAGZ        =F  EAGZP       =F  EARCR       =F
+EAHR        =F  EAGR        =F  1TK         =T  EAG         =F
+EARK        =T  EAR         =T  6963TP      =F  16964T_EEOB2=T
+16964T_ECEN =F  16964T_E4020=F  WAT_C2_OUT  =T  WAT_C7_OUT  =F
+EAGE        =F  EARE        =T  6963TP2O    =F  1766_EAHR2O =F
+6963T_WAL2O =F  
+
+04-04-23 09:40:55 Vital Recorder Entry
+
+1TPREN      =F  1TPR        =F  
+
+04-04-23 09:40:55 Vital Recorder Entry
+
+1TR         =F  
+
+04-04-23 09:39:11 Vital Recorder Entry
+
+7021TP      =T  7021T_ESR   =T  
+
+04-04-23 09:39:11 Vital Recorder Entry
+
+7021T_ESRI  =T  
+
+04-04-23 09:39:04 Non-Vital Recorder Entry
+
+CTC_EAAK    =T  
+
+04-04-23 09:39:04 Vital Recorder Entry
+
+WATPR       =F  WATK        =T  EA_SR       =T  6963T_ECS   =T
+16964T_PRC  =F  16964TP     =F  6963T_ECEN  =T  
+
+04-04-23 09:39:04 Vital Recorder Entry
+
+WAT_C1_IN   =F  
+
+04-04-23 09:39:03 Vital Recorder Entry
+
+16964T_PRCI =F  
+
+04-04-23 09:38:57 Vital Recorder Entry
+
+17023TP     =T  
+
+04-04-23 09:38:46 Vital Recorder Entry
+
+16964T_ECS  =T  16964T_EEOB1=T  16964T_PRC  =T  7021TP      =F
+16964T_ECEN =T  
+
+04-04-23 09:38:46 Vital Recorder Entry
+
+16964T_PRCI =T  
+
+04-04-23 09:38:40 Vital Recorder Entry
+
+17023TP     =F  
+
+04-04-23 09:38:39 Vital Recorder Entry
+
+16964T_EALI =F  
+
+04-04-23 09:35:37 Vital Recorder Entry
+
+EAG         =T  EAFY        =F  EAGE        =T  EAFYE       =F
+
+
+04-04-23 09:35:37 Vital Recorder Entry
+
+ET_C4_IN    =F  ET_C7_IN    =T  
+
+04-04-23 09:34:34 Vital Recorder Entry
+
+EAY         =F  EAFY        =T  WAT_C4_OUT  =F  WAT_C7_OUT  =T
+EAYE        =F  EAFYE       =T  6963T_E4020 =T  6963T_E40EB =F
+
+
+04-04-23 09:34:34 Vital Recorder Entry
+
+ET_C2_IN    =F  ET_C4_IN    =T  
+
+04-04-23 09:34:30 Vital Recorder Entry
+
+6671TP      =T  
+
+04-04-23 09:34:16 Vital Recorder Entry
+
+6672TP      =T  
+
+04-04-23 09:34:04 Vital Recorder Entry
+
+6671TP      =F  
+
+04-04-23 09:33:21 Vital Recorder Entry
+
+6723TP      =T  
+
+04-04-23 09:33:11 Vital Recorder Entry
+
+6672TP      =F  
+
+04-04-23 09:31:22 Non-Vital Recorder Entry
+
+CTC_LK      =T  CTC_EGK     =T  
+
+04-04-23 09:31:22 Vital Recorder Entry
+
+EA_ASR      =F  ET_HDR      =T  LR          =F  ET_TDR      =T
+EARCR       =T  EAHR        =T  EAGR        =T  E_RCXR      =T
+EAY         =T  EAR         =F  6826T_L     =F  6826T_ESR   =F
+6963T_L     =F  6963T_ESR   =F  6826T_WEOB  =F  16964T_E4020=T
+16964T_EEOB =F  ET_C2_OUT   =F  ET_C6_OUT   =T  WAT_C2_OUT  =F
+WAT_C4_OUT  =T  EAYE        =T  EARE        =F  6963T_E40EB =T
+6963T_EEOB  =F  1766_EAHR2O =T  
+
+04-04-23 09:31:22 Vital Recorder Entry
+
+ET_C2_IN    =T  
+
+04-04-23 09:31:17 Non-Vital Recorder Entry
+
+CTC_6826TK  =F  
+
+04-04-23 09:31:17 Vital Recorder Entry
+
+ETPR        =T  ETK         =F  6826T_WCS   =F  6826T_L     =T
+6826T_ESR   =T  6826T_WEOB1 =F  6826TP      =T  6826T_WCEN  =F
+6963T_EEOB  =T  6826TP2O    =T  
+
+04-04-23 09:31:17 Vital Recorder Entry
+
+ET_C1_IN    =T  
+
+04-04-23 09:31:09 Vital Recorder Entry
+
+6723TP      =F  
+
+04-04-23 09:29:31 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 09:29:30 Non-Vital Recorder Entry
+
+NWZ         =F  
+
+04-04-23 09:29:29 Vital Recorder Entry
+
+EAGZ        =T  EAGZP       =T  
+
+04-04-23 09:29:28 Vital Recorder Entry
+
+WBLCANZ     =T  ETBLCANZ    =T  
+
+04-04-23 09:29:27 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 09:29:27 Non-Vital Recorder Entry
+
+NWZ         =T  DLVRY       =T  CTC_EGZ     =T  
+
+04-04-23 09:29:12 Non-Vital Recorder Entry
+
+CTC_LK      =F  CTC_6963TK  =F  
+
+04-04-23 09:29:12 Vital Recorder Entry
+
+OSTPR       =T  LR          =T  ET_TDR      =F  1TK         =F
+EA_SR       =F  6963TP      =T  6826T_WEOB1 =T  6963T_L     =T
+6963T_ESR   =T  6826T_WCEN  =T  6826T_WEOB  =T  ET_C2_OUT   =T
+ET_C6_OUT   =F  6963TP2O    =T  6963T_WAL2O =T  
+
+04-04-23 09:29:12 Vital Recorder Entry
+
+1TPR        =T  
+
+04-04-23 09:29:06 Non-Vital Recorder Entry
+
+CTC_6826TK  =T  
+
+04-04-23 09:29:06 Vital Recorder Entry
+
+EA_ASR      =T  ET_HDR      =F  E_RCXR      =F  ETPR        =F
+ETK         =T  EARK        =F  6826T_WCS   =T  6963T_ECS   =F
+6826TP      =F  6963T_ECEN  =F  6963T_E4020 =F  6826TP2O    =F
+
+
+04-04-23 09:29:05 Vital Recorder Entry
+
+ET_C1_IN    =F  ET_C7_IN    =F  
+
+04-04-23 09:29:05 Vital Recorder Entry
+
+16964T_EALI =T  
+
+04-04-23 09:29:04 Non-Vital Recorder Entry
+
+CTC_EAAK    =F  
+
+04-04-23 09:29:04 Vital Recorder Entry
+
+WATPR       =T  WATK        =F  16964T_ECS  =F  16964T_EEOB2=F
+16964T_EEOB1=F  16964TP     =T  16964T_EEOB =T  
+
+04-04-23 09:29:03 Vital Recorder Entry
+
+WAT_C1_IN   =T  
+
+04-04-23 09:29:02 Vital Recorder Entry
+
+1TPREN      =T  
+
+04-04-23 09:29:02 Vital Recorder Entry
+
+1TR         =T  
+
+04-04-23 09:29:01 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 09:29:01 Non-Vital Recorder Entry
+
+NWZ         =F  
+
+04-04-23 09:28:58 Vital Recorder Entry
+
+WBLCANZ     =T  ETBLCANZ    =T  
+
+04-04-23 09:28:58 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 09:28:58 Non-Vital Recorder Entry
+
+NWZ         =T  DLVRY       =T  CTC_EGZ     =F  
+
+04-04-23 09:28:54 Non-Vital Recorder Entry
+
+CTC_EGK     =F  CTC_6963TK  =T  
+
+04-04-23 09:28:54 Vital Recorder Entry
+
+OSTPR       =F  EAGZ        =F  EAGZP       =F  EARCR       =F
+EAHR        =F  EAGR        =F  1TK         =T  EAG         =F
+EARK        =T  EAR         =T  6963TP      =F  16964T_EEOB2=T
+16964T_ECEN =F  16964T_E4020=F  WAT_C2_OUT  =T  WAT_C7_OUT  =F
+EAGE        =F  EARE        =T  6963TP2O    =F  1766_EAHR2O =F
+6963T_WAL2O =F  
+
+04-04-23 09:28:53 Vital Recorder Entry
+
+1TPREN      =F  1TPR        =F  
+
+04-04-23 09:28:53 Vital Recorder Entry
+
+1TR         =F  
+
+04-04-23 09:28:45 Vital Recorder Entry
+
+EAG         =T  EAFY        =F  EAGE        =T  EAFYE       =F
+
+
+04-04-23 09:28:45 Vital Recorder Entry
+
+ET_C4_IN    =F  ET_C7_IN    =T  
+
+04-04-23 09:28:21 Non-Vital Recorder Entry
+
+CTC_LK      =T  CTC_EGK     =T  
+
+04-04-23 09:28:21 Vital Recorder Entry
+
+EA_ASR      =F  ET_HDR      =T  LR          =F  ET_TDR      =T
+EARCR       =T  EAHR        =T  EAGR        =T  E_RCXR      =T
+EA_SR       =T  EAFY        =T  EAR         =F  6963T_ECS   =T
+6826T_L     =F  6826T_ESR   =F  6963T_L     =F  6963T_ESR   =F
+6826T_WEOB  =F  16964T_E4020=T  16964T_EEOB =F  ET_C2_OUT   =F
+ET_C6_OUT   =T  WAT_C2_OUT  =F  WAT_C7_OUT  =T  EAFYE       =T
+EARE        =F  6963T_ECEN  =T  6963T_E4020 =T  6963T_EEOB  =F
+1766_EAHR2O =T  
+
+04-04-23 09:28:21 Vital Recorder Entry
+
+ET_C4_IN    =T  
+
+04-04-23 09:28:11 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 09:28:11 Non-Vital Recorder Entry
+
+NWZ         =F  
+
+04-04-23 09:28:09 Vital Recorder Entry
+
+EAGZ        =T  EAGZP       =T  
+
+04-04-23 09:28:08 Vital Recorder Entry
+
+WBLCANZ     =T  ETBLCANZ    =T  
+
+04-04-23 09:28:08 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 09:28:08 Vital Recorder Entry
+
+7021T_ESR   =F  
+
+04-04-23 09:28:08 Non-Vital Recorder Entry
+
+NWZ         =T  DLVRY       =T  CTC_EGZ     =T  
+
+04-04-23 09:28:08 Vital Recorder Entry
+
+7021T_ESRI  =F  
+
+04-04-23 09:27:59 Vital Recorder Entry
+
+6826T_L     =T  6826T_WSR   =T  6672T_WSR   =T  6963T_EEOB  =T
+
+
+04-04-23 09:27:58 Vital Recorder Entry
+
+6672T_WSRI  =T  
+
+04-04-23 09:27:49 Vital Recorder Entry
+
+7021TP      =T  7021T_ESR   =T  
+
+04-04-23 09:27:49 Vital Recorder Entry
+
+7021T_ESRI  =T  
+
+04-04-23 09:27:42 Vital Recorder Entry
+
+16964T_PRCI =F  
+
+04-04-23 09:27:41 Non-Vital Recorder Entry
+
+CTC_EAAK    =T  
+
+04-04-23 09:27:41 Vital Recorder Entry
+
+WATPR       =F  WATK        =T  16964T_PRC  =F  16964TP     =F
+
+
+04-04-23 09:27:41 Vital Recorder Entry
+
+WAT_C1_IN   =F  
+
+04-04-23 09:27:33 Vital Recorder Entry
+
+17023TP     =T  
+
+04-04-23 09:27:21 Vital Recorder Entry
+
+16964T_ECS  =T  16964T_EEOB1=T  16964T_PRC  =T  7021TP      =F
+16964T_ECEN =T  
+
+04-04-23 09:27:21 Vital Recorder Entry
+
+16964T_PRCI =T  
+
+04-04-23 09:27:14 Vital Recorder Entry
+
+17023TP     =F  
+
+04-04-23 09:27:14 Vital Recorder Entry
+
+16964T_EALI =F  
+
+04-04-23 09:10:16 Vital Recorder Entry
+
+ET_C6_IN    =F  
+
+04-04-23 09:10:11 Vital Recorder Entry
+
+ET_HDR      =F  E_RCXR      =F  6963T_E4020 =F  
+
+04-04-23 09:10:11 Vital Recorder Entry
+
+ET_C4_IN    =F  ET_C6_IN    =T  
+
+04-04-23 09:09:54 Vital Recorder Entry
+
+6826T_L     =F  6826T_WSR   =F  6672T_WSR   =F  
+
+04-04-23 09:09:54 Vital Recorder Entry
+
+6672T_WSRI  =F  
+
+04-04-23 09:09:42 Vital Recorder Entry
+
+6963T_E4020 =T  6963T_E40EB =F  
+
+04-04-23 09:09:42 Vital Recorder Entry
+
+ET_C2_IN    =F  ET_C4_IN    =T  
+
+04-04-23 09:09:39 Vital Recorder Entry
+
+6671TP      =T  
+
+04-04-23 09:09:24 Vital Recorder Entry
+
+6672TP      =T  
+
+04-04-23 09:09:13 Vital Recorder Entry
+
+6671TP      =F  
+
+04-04-23 09:08:27 Vital Recorder Entry
+
+6723TP      =T  
+
+04-04-23 09:08:21 Vital Recorder Entry
+
+6672TP      =F  
+
+04-04-23 09:06:31 Vital Recorder Entry
+
+ET_HDR      =T  E_RCXR      =T  6963T_E40EB =T  6963T_EEOB  =F
+
+
+04-04-23 09:06:30 Vital Recorder Entry
+
+ET_C2_IN    =T  
+
+04-04-23 09:06:25 Non-Vital Recorder Entry
+
+CTC_6826TK  =F  
+
+04-04-23 09:06:25 Vital Recorder Entry
+
+ETPR        =T  ETK         =F  6826T_WCS   =F  6826T_L     =T
+6826T_ESR   =T  6826T_WEOB1 =F  6826TP      =T  6826T_WCEN  =F
+6963T_EEOB  =T  6826TP2O    =T  
+
+04-04-23 09:06:25 Vital Recorder Entry
+
+ET_C1_IN    =T  
+
+04-04-23 09:06:18 Vital Recorder Entry
+
+6723TP      =F  
+
+04-04-23 09:05:09 Vital Recorder Entry
+
+WAT_C6_IN   =F  
+
+04-04-23 09:05:04 Vital Recorder Entry
+
+WAT_HDR     =F  WN_RCXR     =F  
+
+04-04-23 09:05:03 Vital Recorder Entry
+
+WAT_C2_IN   =F  WAT_C6_IN   =T  
+
+04-04-23 09:04:58 Vital Recorder Entry
+
+16964T_ESR  =F  7021T_ESR   =F  6963T_WEOB  =F  
+
+04-04-23 09:04:57 Vital Recorder Entry
+
+7021T_ESRI  =F  
+
+04-04-23 09:04:51 Vital Recorder Entry
+
+1793_NWCR   =T  
+
+04-04-23 09:04:50 Vital Recorder Entry
+
+1793_NWCRI  =T  
+
+04-04-23 09:04:46 Vital Recorder Entry
+
+1793_RWCR   =F  
+
+04-04-23 09:04:46 Vital Recorder Entry
+
+1793_RWCRI  =F  
+
+04-04-23 09:04:16 Non-Vital Recorder Entry
+
+CTC_LK      =F  CTC_6963TK  =F  
+
+04-04-23 09:04:16 Vital Recorder Entry
+
+OSTPR       =T  LR          =T  WAT_FSR     =F  ET_TDR      =F
+1TK         =F  EA_SR       =F  6963TP      =T  6826T_WEOB1 =T
+6963T_L     =T  6963T_ESR   =T  6826T_WCEN  =T  6826T_WEOB  =T
+ET_C2_OUT   =T  ET_C6_OUT   =F  6963TP2O    =T  6963T_WAL2O =T
+
+
+04-04-23 09:04:15 Vital Recorder Entry
+
+1TPR        =T  
+
+04-04-23 09:04:11 Vital Recorder Entry
+
+WAT_HDR     =T  WAT_FSR     =T  WN_RCXR     =T  
+
+04-04-23 09:04:11 Vital Recorder Entry
+
+WAT_C2_IN   =T  
+
+04-04-23 09:04:08 Non-Vital Recorder Entry
+
+CTC_EAAK    =F  
+
+04-04-23 09:04:08 Vital Recorder Entry
+
+WATPR       =T  WATK        =F  16964T_ECS  =F  16964T_EEOB2=F
+16964T_EEOB1=F  16964TP     =T  16964T_ESR  =T  16964T_EEOB =T
+6963T_WEOB  =T  
+
+04-04-23 09:04:08 Vital Recorder Entry
+
+WAT_C1_IN   =T  
+
+04-04-23 09:04:08 Non-Vital Recorder Entry
+
+CTC_6826TK  =T  
+
+04-04-23 09:04:08 Vital Recorder Entry
+
+EA_ASR      =T  ET_HDR      =F  E_RCXR      =F  ETPR        =F
+ETK         =T  EARK        =F  6826T_WCS   =T  6963T_ECS   =F
+6826TP      =F  6963T_ECEN  =F  6963T_E4020 =F  6826TP2O    =F
+
+
+04-04-23 09:04:08 Vital Recorder Entry
+
+ET_C1_IN    =F  ET_C7_IN    =F  
+
+04-04-23 09:04:07 Vital Recorder Entry
+
+16964T_EALI =T  
+
+04-04-23 09:04:05 Vital Recorder Entry
+
+1TPREN      =T  
+
+04-04-23 09:04:05 Vital Recorder Entry
+
+1TR         =T  
+
+04-04-23 09:04:04 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 09:04:04 Non-Vital Recorder Entry
+
+NWZ         =F  
+
+04-04-23 09:04:01 Vital Recorder Entry
+
+WBLCANZ     =T  ETBLCANZ    =T  
+
+04-04-23 09:04:01 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 09:04:01 Non-Vital Recorder Entry
+
+NWZ         =T  DLVRY       =T  CTC_EGZ     =F  
+
+04-04-23 09:03:55 Non-Vital Recorder Entry
+
+CTC_EGK     =F  CTC_6963TK  =T  
+
+04-04-23 09:03:55 Vital Recorder Entry
+
+OSTPR       =F  EAGZ        =F  EAGZP       =F  EARCR       =F
+EAHR        =F  EAGR        =F  1TK         =T  EAG         =F
+EARK        =T  EAR         =T  6963TP      =F  16964T_EEOB2=T
+16964T_ECEN =F  16964T_E4020=F  WAT_C2_OUT  =T  WAT_C7_OUT  =F
+EAGE        =F  EARE        =T  6963TP2O    =F  1766_EAHR2O =F
+6963T_WAL2O =F  
+
+04-04-23 09:03:55 Vital Recorder Entry
+
+1TPREN      =F  1TPR        =F  
+
+04-04-23 09:03:55 Vital Recorder Entry
+
+1TR         =F  
+
+04-04-23 09:03:27 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 09:03:27 Non-Vital Recorder Entry
+
+NWZ         =F  
+
+04-04-23 09:03:25 Non-Vital Recorder Entry
+
+CTC_LK      =T  CTC_EGK     =T  
+
+04-04-23 09:03:25 Vital Recorder Entry
+
+EA_ASR      =F  EAGZ        =T  LR          =F  EAGZP       =T
+ET_TDR      =T  EARCR       =T  EAHR        =T  EAGR        =T
+EA_SR       =T  EAG         =T  EAR         =F  6963T_ECS   =T
+6826T_L     =F  6826T_ESR   =F  6963T_L     =F  6963T_ESR   =F
+6826T_WEOB  =F  16964T_E4020=T  16964T_EEOB =F  ET_C2_OUT   =F
+ET_C6_OUT   =T  WAT_C2_OUT  =F  WAT_C7_OUT  =T  EAGE        =T
+EARE        =F  6963T_ECEN  =T  1766_EAHR2O =T  
+
+04-04-23 09:03:24 Vital Recorder Entry
+
+WBLCANZ     =T  ETBLCANZ    =T  
+
+04-04-23 09:03:24 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 09:03:24 Non-Vital Recorder Entry
+
+NWZ         =T  DLVRY       =T  CTC_EGZ     =T  CTC_STOPZ   =F
+
+
+04-04-23 09:03:23 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  STOPZ       =F  
+
+04-04-23 09:03:22 Non-Vital Recorder Entry
+
+NWZ         =F  
+
+04-04-23 09:03:20 Vital Recorder Entry
+
+WBLCANZ     =T  ETBLCANZ    =T  STOPZ       =T  
+
+04-04-23 09:03:20 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 09:03:19 Non-Vital Recorder Entry
+
+NWZ         =T  DLVRY       =T  
+
+04-04-23 09:03:18 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  STOPZ       =F  
+
+04-04-23 09:03:18 Non-Vital Recorder Entry
+
+NWZ         =F  
+
+04-04-23 09:03:15 Vital Recorder Entry
+
+WBLCANZ     =T  ETBLCANZ    =T  STOPZ       =T  
+
+04-04-23 09:03:15 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 09:03:15 Non-Vital Recorder Entry
+
+NWZ         =T  DLVRY       =T  CTC_STOPZ   =T  
+
+04-04-23 09:02:23 Vital Recorder Entry
+
+17023TP     =T  
+
+04-04-23 09:02:23 Vital Recorder Entry
+
+26964T_EALI =T  
+
+04-04-23 09:02:17 Vital Recorder Entry
+
+7021TP      =T  
+
+04-04-23 09:02:15 Vital Recorder Entry
+
+7021ATP     =T  
+
+04-04-23 09:02:06 Vital Recorder Entry
+
+17023TP     =F  
+
+04-04-23 09:02:05 Vital Recorder Entry
+
+WBT_HDR     =T  WBT_FSR     =F  
+
+04-04-23 09:02:04 Vital Recorder Entry
+
+WBT_C2_IN   =T  
+
+04-04-23 09:02:03 Vital Recorder Entry
+
+7021TP      =F  
+
+04-04-23 09:02:02 Non-Vital Recorder Entry
+
+CTC_ECAK    =F  
+
+04-04-23 09:02:02 Vital Recorder Entry
+
+WBTPR       =T  WBTK        =F  26964T_ECS  =F  26964T_EEOB1=F
+26964TP     =T  26964T_WSR  =T  26964T_ECEN =F  26964T_WSR2O=T
+
+
+04-04-23 09:02:02 Vital Recorder Entry
+
+WBT_C1_IN   =T  
+
+04-04-23 09:01:50 Vital Recorder Entry
+
+7021ATP     =F  
+
+04-04-23 09:00:43 Non-Vital Recorder Entry
+
+CTC_NWK     =T  
+
+04-04-23 09:00:43 Vital Recorder Entry
+
+NWTEN       =F  NWCR        =T  NWR         =F  6963T_E4020 =T
+1762_NWCR2O =T  
+
+04-04-23 09:00:43 Vital Recorder Entry
+
+NWP         =T  
+
+04-04-23 09:00:42 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 09:00:41 Non-Vital Recorder Entry
+
+NWZ         =F  
+
+04-04-23 09:00:40 Vital Recorder Entry
+
+RWP         =F  
+
+04-04-23 09:00:39 Non-Vital Recorder Entry
+
+CTC_RWK     =F  
+
+04-04-23 09:00:39 Vital Recorder Entry
+
+NWTEN       =T  WBLCANZ     =T  RWCR        =F  ETBLCANZ    =T
+NWZR        =T  RWZR        =F  6963AT_E4020=F  NWR         =T
+1762_RWCR2O =F  
+
+04-04-23 09:00:39 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 09:00:38 Non-Vital Recorder Entry
+
+NWZ         =T  DLVRY       =T  CTC_NWZ     =T  CTC_RWZ     =F
+
+
+04-04-23 09:00:25 Vital Recorder Entry
+
+ET_HDR      =T  E_RCXR      =T  6963AT_E4020=T  6963AT_EEOB =F
+
+
+04-04-23 09:00:24 Vital Recorder Entry
+
+ET_C7_IN    =T  
+
+04-04-23 09:00:23 Non-Vital Recorder Entry
+
+CTC_LK      =F  CTC_6963TK  =F  
+
+04-04-23 09:00:23 Vital Recorder Entry
+
+WBT_TDR     =F  OSTPR       =T  LR          =T  W_SR        =F
+1TK         =F  26964T_EEOB1=T  6963ATP     =T  6963AT_WSR  =T
+6963AT_L    =T  26964T_ECEN =T  26964T_EEOB =T  WBT_C2_OUT  =T
+WBT_C6_OUT  =F  6963ATP2O   =T  6963AT_WAL2O=T  
+
+04-04-23 09:00:23 Vital Recorder Entry
+
+1ATPR       =T  
+
+04-04-23 09:00:18 Vital Recorder Entry
+
+6963TP      =T  6963T_WSR   =T  6963T_L     =T  6963TP2O    =T
+
+
+04-04-23 09:00:18 Vital Recorder Entry
+
+1TPR        =T  
+
+04-04-23 09:00:17 Non-Vital Recorder Entry
+
+CTC_6826TK  =F  
+
+04-04-23 09:00:17 Vital Recorder Entry
+
+ETPR        =T  ETK         =F  6826T_WCS   =F  6963AT_EEOB =T
+6826T_L     =T  6826T_WSR   =T  6826T_WEOB2 =F  6826T_WEOB1 =F
+6826TP      =T  6826T_WEOB  =T  6826TP2O    =T  
+
+04-04-23 09:00:17 Vital Recorder Entry
+
+ET_C1_IN    =T  
+
+04-04-23 09:00:16 Non-Vital Recorder Entry
+
+CTC_ECAK    =T  
+
+04-04-23 09:00:16 Vital Recorder Entry
+
+WASR        =T  WBT_HDR     =F  WBTPR       =F  WBTK        =T
+WRK         =F  6963AT_W40EB=F  26964T_ECS  =T  6963AT_WCEN =F
+6963AT_WCS  =F  26964TP     =F  6963AT_CEN  =F  6963AT_40EB =F
+26964T_PRC2O=F  
+
+04-04-23 09:00:16 Vital Recorder Entry
+
+WBT_C1_IN   =F  WBT_C7_IN   =F  
+
+04-04-23 09:00:15 Vital Recorder Entry
+
+26964T_EALI =F  
+
+04-04-23 09:00:13 Vital Recorder Entry
+
+1ATPREN     =T  WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 09:00:13 Vital Recorder Entry
+
+1ATR        =T  
+
+04-04-23 09:00:13 Non-Vital Recorder Entry
+
+RWZ         =F  
+
+04-04-23 09:00:10 Vital Recorder Entry
+
+WBLCANZ     =T  ETBLCANZ    =T  
+
+04-04-23 09:00:10 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 09:00:10 Non-Vital Recorder Entry
+
+RWZ         =T  DLVRY       =T  CTC_WGZ     =F  
+
+04-04-23 09:00:08 Vital Recorder Entry
+
+1TPREN      =T  
+
+04-04-23 09:00:08 Vital Recorder Entry
+
+1TR         =T  
+
+04-04-23 09:00:07 Vital Recorder Entry
+
+6963ATP     =F  6963ATP2O   =F  26964T_PRC2O=T  
+
+04-04-23 09:00:06 Vital Recorder Entry
+
+1ATPREN     =F  1ATPR       =F  
+
+04-04-23 09:00:06 Vital Recorder Entry
+
+1ATR        =F  
+
+04-04-23 09:00:04 Non-Vital Recorder Entry
+
+CTC_WGK     =F  CTC_6963TK  =T  
+
+04-04-23 09:00:04 Vital Recorder Entry
+
+OSTPR       =F  WGZ         =F  WGZP        =F  WBT_FSR     =T
+WHR         =F  WGR         =F  WRCR        =F  WBG         =F
+WRK         =T  1TK         =T  WBR         =T  6963TP      =F
+6826T_WEOB2 =T  6826T_WCEN  =F  6826T_W40EB =F  ET_C2_OUT   =T
+ET_C3_OUT   =F  WBGE        =F  WBRE        =T  6963TP2O    =F
+
+
+04-04-23 09:00:04 Vital Recorder Entry
+
+1TPREN      =F  1TPR        =F  
+
+04-04-23 09:00:04 Vital Recorder Entry
+
+1TR         =F  
+
+04-04-23 08:58:10 Vital Recorder Entry
+
+6723TP      =T  6672T_WSR   =T  
+
+04-04-23 08:58:10 Vital Recorder Entry
+
+6672T_WSRI  =T  6826T_PRCI  =F  
+
+04-04-23 08:58:01 Non-Vital Recorder Entry
+
+CTC_6826TK  =T  
+
+04-04-23 08:58:01 Vital Recorder Entry
+
+W_SR        =T  ETPR        =F  ETK         =T  6963AT_WCEN =T
+6963AT_WCS  =T  6826T_PRC   =F  6826TP      =F  6963AT_CEN  =T
+6963AT_40EB =T  6826TP2O    =F  6963AT_WAL2O=F  
+
+04-04-23 08:58:01 Vital Recorder Entry
+
+ET_C1_IN    =F  
+
+04-04-23 08:56:34 Vital Recorder Entry
+
+ET_C6_IN    =F  
+
+04-04-23 08:56:31 Vital Recorder Entry
+
+6672TP      =T  
+
+04-04-23 08:56:29 Vital Recorder Entry
+
+ET_C6_IN    =T  
+
+04-04-23 08:56:23 Vital Recorder Entry
+
+6826T_WCS   =T  6723TP      =F  6826T_WEOB1 =T  6826T_PRC   =T
+6826T_WCEN  =T  
+
+04-04-23 08:56:23 Vital Recorder Entry
+
+6826T_PRCI  =T  
+
+04-04-23 08:55:46 Vital Recorder Entry
+
+6671TP      =T  
+
+04-04-23 08:55:39 Vital Recorder Entry
+
+6671ATP     =T  
+
+04-04-23 08:55:37 Vital Recorder Entry
+
+6672TP      =F  
+
+04-04-23 08:55:34 Vital Recorder Entry
+
+WBG         =T  WBY         =F  6963AT_W40EB=T  6963AT_WEOB =F
+6826T_W40EB =T  6826T_W30EB =F  ET_C3_OUT   =T  ET_C4_OUT   =F
+WBGE        =T  WBYE        =F  
+
+04-04-23 08:55:34 Vital Recorder Entry
+
+WBT_C2_IN   =F  WBT_C7_IN   =T  
+
+04-04-23 08:55:26 Vital Recorder Entry
+
+6671TP      =F  
+
+04-04-23 08:55:19 Vital Recorder Entry
+
+6671ATP     =F  
+
+04-04-23 08:55:18 Vital Recorder Entry
+
+1793_RWCR   =T  
+
+04-04-23 08:55:18 Vital Recorder Entry
+
+1793_RWCRI  =T  
+
+04-04-23 08:55:14 Vital Recorder Entry
+
+1793_NWCR   =F  
+
+04-04-23 08:55:13 Vital Recorder Entry
+
+1793_NWCRI  =F  
+
+04-04-23 08:55:00 Vital Recorder Entry
+
+7021TP      =T  7021T_ESR   =T  
+
+04-04-23 08:54:59 Vital Recorder Entry
+
+7021T_ESRI  =T  
+
+04-04-23 08:54:52 Non-Vital Recorder Entry
+
+CTC_EAAK    =T  
+
+04-04-23 08:54:52 Vital Recorder Entry
+
+WATPR       =F  WATK        =T  16964T_PRC  =F  16964TP     =F
+
+
+04-04-23 08:54:52 Vital Recorder Entry
+
+WAT_C1_IN   =F  
+
+04-04-23 08:54:51 Vital Recorder Entry
+
+16964T_PRCI =F  
+
+04-04-23 08:54:41 Vital Recorder Entry
+
+17023TP     =T  
+
+04-04-23 08:54:28 Vital Recorder Entry
+
+16964T_ECS  =T  16964T_EEOB1=T  16964T_PRC  =T  7021TP      =F
+16964T_ECEN =T  
+
+04-04-23 08:54:28 Vital Recorder Entry
+
+16964T_PRCI =T  
+
+04-04-23 08:54:21 Vital Recorder Entry
+
+17023TP     =F  
+
+04-04-23 08:54:21 Vital Recorder Entry
+
+16964T_EALI =F  
+
+04-04-23 08:40:47 Vital Recorder Entry
+
+ET_C6_IN    =F  
+
+04-04-23 08:40:42 Vital Recorder Entry
+
+ET_HDR      =F  E_RCXR      =F  6963AT_E4020=F  
+
+04-04-23 08:40:42 Vital Recorder Entry
+
+ET_C4_IN    =F  ET_C6_IN    =T  
+
+04-04-23 08:40:28 Vital Recorder Entry
+
+6826T_L     =F  6826T_WSR   =F  6672T_WSR   =F  
+
+04-04-23 08:40:28 Vital Recorder Entry
+
+6672T_WSRI  =F  
+
+04-04-23 08:39:47 Vital Recorder Entry
+
+6963AT_E40EB=F  6963AT_E4020=T  
+
+04-04-23 08:39:47 Vital Recorder Entry
+
+ET_C2_IN    =F  ET_C4_IN    =T  
+
+04-04-23 08:39:46 Vital Recorder Entry
+
+6671TP      =T  
+
+04-04-23 08:39:30 Vital Recorder Entry
+
+6672TP      =T  
+
+04-04-23 08:39:20 Vital Recorder Entry
+
+6671TP      =F  
+
+04-04-23 08:38:34 Vital Recorder Entry
+
+6723TP      =T  
+
+04-04-23 08:38:27 Vital Recorder Entry
+
+6672TP      =F  
+
+04-04-23 08:36:40 Vital Recorder Entry
+
+ET_HDR      =T  E_RCXR      =T  6963AT_E40EB=T  6963AT_EEOB =F
+
+
+04-04-23 08:36:40 Vital Recorder Entry
+
+ET_C2_IN    =T  
+
+04-04-23 08:36:35 Non-Vital Recorder Entry
+
+CTC_6826TK  =F  
+
+04-04-23 08:36:35 Vital Recorder Entry
+
+W_SR        =F  ETPR        =T  ETK         =F  6826T_WCS   =F
+6963AT_EEOB =T  6963AT_WCEN =F  6963AT_WCS  =F  6826T_L     =T
+6826T_ESR   =T  6826T_WEOB1 =F  6826TP      =T  6826T_WCEN  =F
+6963AT_CEN  =F  6963AT_EOB  =F  6826TP2O    =T  6963AT_WAL2O=T
+
+
+04-04-23 08:36:35 Vital Recorder Entry
+
+ET_C1_IN    =T  
+
+04-04-23 08:36:28 Vital Recorder Entry
+
+6723TP      =F  
+
+04-04-23 08:35:48 Vital Recorder Entry
+
+WAT_C6_IN   =F  
+
+04-04-23 08:35:43 Vital Recorder Entry
+
+WAT_HDR     =F  WN_RCXR     =F  
+
+04-04-23 08:35:43 Vital Recorder Entry
+
+WAT_C2_IN   =F  WAT_C6_IN   =T  
+
+04-04-23 08:35:39 Vital Recorder Entry
+
+16964T_ESR  =F  7021T_ESR   =F  
+
+04-04-23 08:35:38 Vital Recorder Entry
+
+7021T_ESRI  =F  
+
+04-04-23 08:35:32 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 08:35:32 Non-Vital Recorder Entry
+
+RWZ         =F  
+
+04-04-23 08:35:31 Vital Recorder Entry
+
+1793_NWCR   =T  
+
+04-04-23 08:35:31 Vital Recorder Entry
+
+1793_NWCRI  =T  
+
+04-04-23 08:35:29 Non-Vital Recorder Entry
+
+CTC_MCK     =F  
+
+04-04-23 08:35:29 Vital Recorder Entry
+
+MCK         =F  
+
+04-04-23 08:35:29 Vital Recorder Entry
+
+WBLCANZ     =T  ETBLCANZ    =T  MCR         =F  
+
+04-04-23 08:35:29 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 08:35:29 Non-Vital Recorder Entry
+
+RWZ         =T  DLVRY       =T  CTC_MCZ     =F  
+
+04-04-23 08:35:27 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 08:35:27 Non-Vital Recorder Entry
+
+RWZ         =F  
+
+04-04-23 08:35:27 Vital Recorder Entry
+
+1793_RWCR   =F  
+
+04-04-23 08:35:27 Vital Recorder Entry
+
+1793_RWCRI  =F  
+
+04-04-23 08:35:25 Non-Vital Recorder Entry
+
+CTC_LK      =T  CTC_WGK     =T  
+
+04-04-23 08:35:25 Vital Recorder Entry
+
+WASR        =F  WBT_TDR     =T  WGZ         =T  LR          =F
+WGZP        =T  W_SR        =T  WHR         =T  WGR         =T
+WRCR        =T  WBY         =T  WBR         =F  6963AT_WCEN =T
+6963AT_WCS  =T  6963T_WSR   =F  6963AT_WSR  =F  6963T_L     =F
+6963AT_L    =F  26964T_WSR  =F  6826T_W30EB =T  6826T_WEOB  =F
+ET_C2_OUT   =F  ET_C4_OUT   =T  26964T_EEOB =F  WBT_C2_OUT  =F
+WBT_C6_OUT  =T  WBYE        =T  WBRE        =F  6963AT_CEN  =T
+6963AT_EOB  =T  26964T_WSR2O=F  6963AT_WAL2O=F  
+
+04-04-23 08:35:24 Vital Recorder Entry
+
+WBLCANZ     =T  ETBLCANZ    =T  
+
+04-04-23 08:35:24 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 08:35:24 Non-Vital Recorder Entry
+
+RWZ         =T  DLVRY       =T  CTC_WGZ     =T  
+
+04-04-23 08:35:19 Non-Vital Recorder Entry
+
+CTC_RWK     =T  
+
+04-04-23 08:35:19 Vital Recorder Entry
+
+RWTEN       =F  RWCR        =T  6963AT_WEOB =T  RWR         =F
+1762_RWCR2O =T  
+
+04-04-23 08:35:19 Vital Recorder Entry
+
+RWP         =T  
+
+04-04-23 08:35:18 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 08:35:18 Non-Vital Recorder Entry
+
+RWZ         =F  
+
+04-04-23 08:35:16 Vital Recorder Entry
+
+NWP         =F  
+
+04-04-23 08:35:15 Non-Vital Recorder Entry
+
+CTC_NWK     =F  
+
+04-04-23 08:35:15 Vital Recorder Entry
+
+RWTEN       =T  WBLCANZ     =T  NWCR        =F  ETBLCANZ    =T
+NWZR        =F  RWZR        =T  RWR         =T  6963T_WEOB  =F
+1762_NWCR2O =F  
+
+04-04-23 08:35:15 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 08:35:15 Non-Vital Recorder Entry
+
+RWZ         =T  DLVRY       =T  CTC_NWZ     =F  CTC_RWZ     =T
+
+
+04-04-23 08:35:12 Vital Recorder Entry
+
+17023TP     =T  
+
+04-04-23 08:35:12 Vital Recorder Entry
+
+26964T_EALI =T  
+
+04-04-23 08:35:06 Vital Recorder Entry
+
+7021TP      =T  
+
+04-04-23 08:35:03 Vital Recorder Entry
+
+7021ATP     =T  
+
+04-04-23 08:34:54 Vital Recorder Entry
+
+17023TP     =F  
+
+04-04-23 08:34:54 Vital Recorder Entry
+
+WBT_HDR     =T  WBT_FSR     =F  
+
+04-04-23 08:34:54 Vital Recorder Entry
+
+WBT_C2_IN   =T  
+
+04-04-23 08:34:51 Vital Recorder Entry
+
+7021TP      =F  
+
+04-04-23 08:34:51 Non-Vital Recorder Entry
+
+CTC_ECAK    =F  
+
+04-04-23 08:34:51 Vital Recorder Entry
+
+WBTPR       =T  WBTK        =F  26964T_ECS  =F  26964T_EEOB1=F
+26964TP     =T  26964T_WSR  =T  26964T_ECEN =F  26964T_WSR2O=T
+
+
+04-04-23 08:34:51 Vital Recorder Entry
+
+WBT_C1_IN   =T  
+
+04-04-23 08:34:39 Vital Recorder Entry
+
+7021ATP     =F  
+
+04-04-23 08:34:31 Non-Vital Recorder Entry
+
+CTC_LK      =F  CTC_6963TK  =F  
+
+04-04-23 08:34:31 Vital Recorder Entry
+
+OSTPR       =T  LR          =T  WAT_FSR     =F  ET_TDR      =F
+1TK         =F  EA_SR       =F  6963TP      =T  6826T_WEOB1 =T
+6963T_L     =T  6963T_ESR   =T  6826T_WCEN  =T  6826T_WEOB  =T
+ET_C2_OUT   =T  ET_C6_OUT   =F  6963TP2O    =T  6963T_WAL2O =T
+
+
+04-04-23 08:34:30 Vital Recorder Entry
+
+1TPR        =T  
+
+04-04-23 08:34:24 Vital Recorder Entry
+
+WAT_HDR     =T  WAT_FSR     =T  WN_RCXR     =T  
+
+04-04-23 08:34:24 Non-Vital Recorder Entry
+
+CTC_6826TK  =T  
+
+04-04-23 08:34:24 Vital Recorder Entry
+
+EA_ASR      =T  ET_HDR      =F  E_RCXR      =F  ETPR        =F
+ETK         =T  EARK        =F  6826T_WCS   =T  6963T_ECS   =F
+6826TP      =F  WAT_C2_IN   =T  6963T_ECEN  =F  6963T_E4020 =F
+6826TP2O    =F  
+
+04-04-23 08:34:24 Vital Recorder Entry
+
+ET_C1_IN    =F  ET_C7_IN    =F  
+
+04-04-23 08:34:23 Vital Recorder Entry
+
+16964T_EALI =T  
+
+04-04-23 08:34:22 Non-Vital Recorder Entry
+
+CTC_EAAK    =F  
+
+04-04-23 08:34:22 Vital Recorder Entry
+
+WATPR       =T  WATK        =F  16964T_ECS  =F  16964T_EEOB2=F
+16964T_EEOB1=F  16964TP     =T  16964T_ESR  =T  16964T_EEOB =T
+6963T_WEOB  =T  
+
+04-04-23 08:34:22 Vital Recorder Entry
+
+WAT_C1_IN   =T  
+
+04-04-23 08:34:20 Vital Recorder Entry
+
+1TPREN      =T  WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 08:34:20 Vital Recorder Entry
+
+1TR         =T  
+
+04-04-23 08:34:20 Non-Vital Recorder Entry
+
+NWZ         =F  
+
+04-04-23 08:34:17 Vital Recorder Entry
+
+WBLCANZ     =T  ETBLCANZ    =T  
+
+04-04-23 08:34:17 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 08:34:17 Non-Vital Recorder Entry
+
+NWZ         =T  DLVRY       =T  CTC_EGZ     =F  
+
+04-04-23 08:34:12 Non-Vital Recorder Entry
+
+CTC_EGK     =F  CTC_6963TK  =T  
+
+04-04-23 08:34:12 Vital Recorder Entry
+
+OSTPR       =F  EAGZ        =F  EAGZP       =F  EARCR       =F
+EAHR        =F  EAGR        =F  1TK         =T  EAG         =F
+EARK        =T  EAR         =T  6963TP      =F  16964T_EEOB2=T
+16964T_ECEN =F  16964T_E4020=F  WAT_C2_OUT  =T  WAT_C7_OUT  =F
+EAGE        =F  EARE        =T  6963TP2O    =F  1766_EAHR2O =F
+6963T_WAL2O =F  
+
+04-04-23 08:34:11 Vital Recorder Entry
+
+1TPREN      =F  1TPR        =F  
+
+04-04-23 08:34:11 Vital Recorder Entry
+
+1TR         =F  
+
+04-04-23 08:33:42 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 08:33:42 Non-Vital Recorder Entry
+
+NWZ         =F  
+
+04-04-23 08:33:40 Non-Vital Recorder Entry
+
+CTC_LK      =T  CTC_EGK     =T  
+
+04-04-23 08:33:40 Vital Recorder Entry
+
+EA_ASR      =F  EAGZ        =T  LR          =F  EAGZP       =T
+ET_TDR      =T  EARCR       =T  EAHR        =T  EAGR        =T
+EA_SR       =T  EAG         =T  EAR         =F  6963T_ECS   =T
+6826T_L     =F  6826T_ESR   =F  6963T_L     =F  6963T_ESR   =F
+6826T_WEOB  =F  16964T_E4020=T  16964T_EEOB =F  ET_C2_OUT   =F
+ET_C6_OUT   =T  WAT_C2_OUT  =F  WAT_C7_OUT  =T  EAGE        =T
+EARE        =F  6963T_ECEN  =T  1766_EAHR2O =T  
+
+04-04-23 08:33:39 Vital Recorder Entry
+
+WBLCANZ     =T  ETBLCANZ    =T  
+
+04-04-23 08:33:39 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 08:33:39 Non-Vital Recorder Entry
+
+NWZ         =T  DLVRY       =T  CTC_EGZ     =T  
+
+04-04-23 08:33:34 Non-Vital Recorder Entry
+
+CTC_NWK     =T  
+
+04-04-23 08:33:34 Vital Recorder Entry
+
+NWTEN       =F  NWCR        =T  NWR         =F  6963T_E4020 =T
+1762_NWCR2O =T  
+
+04-04-23 08:33:34 Vital Recorder Entry
+
+NWP         =T  
+
+04-04-23 08:33:33 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 08:33:33 Non-Vital Recorder Entry
+
+NWZ         =F  
+
+04-04-23 08:33:31 Vital Recorder Entry
+
+RWP         =F  
+
+04-04-23 08:33:30 Non-Vital Recorder Entry
+
+CTC_RWK     =F  
+
+04-04-23 08:33:30 Vital Recorder Entry
+
+NWTEN       =T  WBLCANZ     =T  RWCR        =F  ETBLCANZ    =T
+NWZR        =T  RWZR        =F  6963AT_E4020=F  NWR         =T
+1762_RWCR2O =F  
+
+04-04-23 08:33:30 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 08:33:30 Non-Vital Recorder Entry
+
+NWZ         =T  DLVRY       =T  CTC_NWZ     =T  CTC_RWZ     =F
+
+
+04-04-23 08:33:16 Non-Vital Recorder Entry
+
+CTC_LK      =F  CTC_6963TK  =F  
+
+04-04-23 08:33:16 Vital Recorder Entry
+
+WBT_TDR     =F  OSTPR       =T  LR          =T  W_SR        =F
+1TK         =F  26964T_EEOB1=T  6963ATP     =T  6963AT_WSR  =T
+6963AT_L    =T  26964T_ECEN =T  26964T_EEOB =T  WBT_C2_OUT  =T
+WBT_C6_OUT  =F  6963ATP2O   =T  6963AT_WAL2O=T  
+
+04-04-23 08:33:16 Vital Recorder Entry
+
+1ATPR       =T  ET_HDR      =T  E_RCXR      =T  6963AT_E4020=T
+6963AT_EEOB =F  
+
+04-04-23 08:33:15 Vital Recorder Entry
+
+ET_C7_IN    =T  
+
+04-04-23 08:33:09 Vital Recorder Entry
+
+6963TP      =T  6963T_WSR   =T  6963T_L     =T  6963TP2O    =T
+
+
+04-04-23 08:33:09 Vital Recorder Entry
+
+1TPR        =T  
+
+04-04-23 08:33:08 Non-Vital Recorder Entry
+
+CTC_ECAK    =T  
+
+04-04-23 08:33:08 Vital Recorder Entry
+
+WASR        =T  WBT_HDR     =F  WBTPR       =F  WBTK        =T
+WRK         =F  6963AT_W40EB=F  26964T_ECS  =T  6963AT_WCEN =F
+6963AT_WCS  =F  26964TP     =F  6963AT_CEN  =F  6963AT_40EB =F
+26964T_PRC2O=F  
+
+04-04-23 08:33:08 Vital Recorder Entry
+
+WBT_C1_IN   =F  WBT_C7_IN   =F  
+
+04-04-23 08:33:07 Vital Recorder Entry
+
+26964T_EALI =F  
+
+04-04-23 08:33:05 Vital Recorder Entry
+
+1ATPREN     =T  
+
+04-04-23 08:33:05 Non-Vital Recorder Entry
+
+CTC_6826TK  =F  
+
+04-04-23 08:33:05 Vital Recorder Entry
+
+ETPR        =T  ETK         =F  6826T_WCS   =F  6963AT_EEOB =T
+6826T_L     =T  6826T_WSR   =T  6826T_WEOB2 =F  6826T_WEOB1 =F
+6826TP      =T  6826T_WEOB  =T  1ATR        =T  6826TP2O    =T
+
+
+04-04-23 08:33:05 Vital Recorder Entry
+
+ET_C1_IN    =T  
+
+04-04-23 08:33:03 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 08:33:02 Non-Vital Recorder Entry
+
+RWZ         =F  
+
+04-04-23 08:33:00 Vital Recorder Entry
+
+6963AT_W40EB=T  6963AT_WEOB =F  6963AT_40EB =T  6963AT_EOB  =F
+
+
+04-04-23 08:33:00 Vital Recorder Entry
+
+WBT_C2_IN   =F  WBT_C7_IN   =T  
+
+04-04-23 08:32:59 Vital Recorder Entry
+
+WBLCANZ     =T  ETBLCANZ    =T  
+
+04-04-23 08:32:59 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 08:32:59 Non-Vital Recorder Entry
+
+RWZ         =T  DLVRY       =T  CTC_WGZ     =F  
+
+04-04-23 08:32:59 Vital Recorder Entry
+
+1TPREN      =T  
+
+04-04-23 08:32:59 Vital Recorder Entry
+
+1TR         =T  
+
+04-04-23 08:32:57 Vital Recorder Entry
+
+6963ATP     =F  6963ATP2O   =F  26964T_PRC2O=T  
+
+04-04-23 08:32:57 Vital Recorder Entry
+
+1ATPREN     =F  1ATPR       =F  
+
+04-04-23 08:32:56 Vital Recorder Entry
+
+1ATR        =F  
+
+04-04-23 08:32:54 Non-Vital Recorder Entry
+
+CTC_WGK     =F  CTC_6963TK  =T  
+
+04-04-23 08:32:54 Vital Recorder Entry
+
+OSTPR       =F  WGZ         =F  WGZP        =F  WBT_FSR     =T
+WHR         =F  WGR         =F  WRCR        =F  WBY         =F
+WRK         =T  1TK         =T  WBR         =T  6963TP      =F
+6826T_WEOB2 =T  6826T_WCEN  =F  6826T_W30EB =F  ET_C2_OUT   =T
+ET_C4_OUT   =F  WBYE        =F  WBRE        =T  6963TP2O    =F
+
+
+04-04-23 08:32:53 Vital Recorder Entry
+
+1TPREN      =F  1TPR        =F  
+
+04-04-23 08:32:53 Vital Recorder Entry
+
+1TR         =F  
+
+04-04-23 08:32:44 Vital Recorder Entry
+
+1793_RWCR   =T  
+
+04-04-23 08:32:44 Vital Recorder Entry
+
+1793_RWCRI  =T  
+
+04-04-23 08:32:39 Vital Recorder Entry
+
+1793_NWCR   =F  
+
+04-04-23 08:32:39 Vital Recorder Entry
+
+1793_NWCRI  =F  
+
+04-04-23 08:32:27 Vital Recorder Entry
+
+7021TP      =T  7021T_ESR   =T  
+
+04-04-23 08:32:27 Vital Recorder Entry
+
+7021T_ESRI  =T  
+
+04-04-23 08:32:19 Vital Recorder Entry
+
+16964T_PRCI =F  
+
+04-04-23 08:32:18 Non-Vital Recorder Entry
+
+CTC_EAAK    =T  
+
+04-04-23 08:32:18 Vital Recorder Entry
+
+WATPR       =F  WATK        =T  16964T_PRC  =F  16964TP     =F
+
+
+04-04-23 08:32:18 Vital Recorder Entry
+
+WAT_C1_IN   =F  
+
+04-04-23 08:32:13 Vital Recorder Entry
+
+17023TP     =T  
+
+04-04-23 08:32:01 Vital Recorder Entry
+
+16964T_ECS  =T  16964T_EEOB1=T  16964T_PRC  =T  7021TP      =F
+16964T_ECEN =T  
+
+04-04-23 08:32:01 Vital Recorder Entry
+
+16964T_PRCI =T  
+
+04-04-23 08:31:55 Vital Recorder Entry
+
+17023TP     =F  
+
+04-04-23 08:31:55 Vital Recorder Entry
+
+16964T_EALI =F  
+
+04-04-23 08:30:22 Vital Recorder Entry
+
+6723TP      =T  6672T_WSR   =T  
+
+04-04-23 08:30:22 Vital Recorder Entry
+
+6672T_WSRI  =T  6826T_PRCI  =F  
+
+04-04-23 08:30:16 Non-Vital Recorder Entry
+
+CTC_6826TK  =T  
+
+04-04-23 08:30:16 Vital Recorder Entry
+
+W_SR        =T  ETPR        =F  ETK         =T  6963AT_WCEN =T
+6963AT_WCS  =T  6826T_PRC   =F  6826TP      =F  6963AT_CEN  =T
+6963AT_EOB  =T  6826TP2O    =F  6963AT_WAL2O=F  
+
+04-04-23 08:30:15 Vital Recorder Entry
+
+ET_C1_IN    =F  
+
+04-04-23 08:28:49 Vital Recorder Entry
+
+ET_C6_IN    =F  
+
+04-04-23 08:28:48 Vital Recorder Entry
+
+6672TP      =T  
+
+04-04-23 08:28:43 Vital Recorder Entry
+
+ET_C6_IN    =T  
+
+04-04-23 08:28:39 Vital Recorder Entry
+
+6826T_WCS   =T  6723TP      =F  6826T_WEOB1 =T  6826T_PRC   =T
+6826T_WCEN  =T  
+
+04-04-23 08:28:39 Vital Recorder Entry
+
+6826T_PRCI  =T  
+
+04-04-23 08:28:01 Vital Recorder Entry
+
+6671TP      =T  
+
+04-04-23 08:27:55 Vital Recorder Entry
+
+6671ATP     =T  
+
+04-04-23 08:27:54 Vital Recorder Entry
+
+6672TP      =F  
+
+04-04-23 08:27:42 Vital Recorder Entry
+
+6671TP      =F  
+
+04-04-23 08:27:35 Vital Recorder Entry
+
+6671ATP     =F  
+
+04-04-23 08:18:05 Vital Recorder Entry
+
+ET_C6_IN    =F  
+
+04-04-23 08:18:00 Vital Recorder Entry
+
+ET_HDR      =F  E_RCXR      =F  6963AT_E4020=F  
+
+04-04-23 08:18:00 Vital Recorder Entry
+
+ET_C4_IN    =F  ET_C6_IN    =T  
+
+04-04-23 08:17:43 Vital Recorder Entry
+
+6826T_L     =F  6826T_WSR   =F  6672T_WSR   =F  
+
+04-04-23 08:17:42 Vital Recorder Entry
+
+6672T_WSRI  =F  
+
+04-04-23 08:17:08 Vital Recorder Entry
+
+6963AT_E40EB=F  6963AT_E4020=T  
+
+04-04-23 08:17:07 Vital Recorder Entry
+
+ET_C2_IN    =F  ET_C4_IN    =T  
+
+04-04-23 08:17:03 Vital Recorder Entry
+
+6671TP      =T  
+
+04-04-23 08:16:48 Vital Recorder Entry
+
+6672TP      =T  
+
+04-04-23 08:16:37 Vital Recorder Entry
+
+6671TP      =F  
+
+04-04-23 08:15:50 Vital Recorder Entry
+
+6723TP      =T  
+
+04-04-23 08:15:44 Vital Recorder Entry
+
+6672TP      =F  
+
+04-04-23 08:14:43 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 08:14:43 Non-Vital Recorder Entry
+
+RWZ         =F  
+
+04-04-23 08:14:41 Non-Vital Recorder Entry
+
+CTC_LK      =T  CTC_WGK     =T  
+
+04-04-23 08:14:41 Vital Recorder Entry
+
+WASR        =F  WBT_TDR     =T  WGZ         =T  LR          =F
+WGZP        =T  WHR         =T  WGR         =T  WRCR        =T
+WBY         =T  WBR         =F  6963T_WSR   =F  6963AT_WSR  =F
+6963T_L     =F  6963AT_L    =F  26964T_WSR  =F  6826T_W30EB =T
+6826T_WEOB  =F  ET_C2_OUT   =F  ET_C4_OUT   =T  26964T_EEOB =F
+WBT_C2_OUT  =F  WBT_C6_OUT  =T  WBYE        =T  WBRE        =F
+26964T_WSR2O=F  
+
+04-04-23 08:14:40 Vital Recorder Entry
+
+WBLCANZ     =T  ETBLCANZ    =T  
+
+04-04-23 08:14:40 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 08:14:40 Non-Vital Recorder Entry
+
+RWZ         =T  DLVRY       =T  CTC_WGZ     =T  
+
+04-04-23 08:13:56 Vital Recorder Entry
+
+ET_HDR      =T  E_RCXR      =T  6963AT_E40EB=T  6963AT_EEOB =F
+
+
+04-04-23 08:13:56 Vital Recorder Entry
+
+ET_C2_IN    =T  
+
+04-04-23 08:13:51 Non-Vital Recorder Entry
+
+CTC_6826TK  =F  
+
+04-04-23 08:13:51 Vital Recorder Entry
+
+ETPR        =T  ETK         =F  6826T_WCS   =F  6963AT_EEOB =T
+6826T_L     =T  6826T_ESR   =T  6826T_WEOB1 =F  6826TP      =T
+6826T_WCEN  =F  6826TP2O    =T  
+
+04-04-23 08:13:50 Vital Recorder Entry
+
+ET_C1_IN    =T  
+
+04-04-23 08:13:42 Vital Recorder Entry
+
+6723TP      =F  
+
+04-04-23 08:13:00 Vital Recorder Entry
+
+WAT_C6_IN   =F  
+
+04-04-23 08:12:55 Vital Recorder Entry
+
+WAT_HDR     =F  WN_RCXR     =F  
+
+04-04-23 08:12:54 Vital Recorder Entry
+
+WAT_C2_IN   =F  WAT_C6_IN   =T  
+
+04-04-23 08:12:48 Vital Recorder Entry
+
+16964T_ESR  =F  7021T_ESR   =F  
+
+04-04-23 08:12:48 Vital Recorder Entry
+
+7021T_ESRI  =F  
+
+04-04-23 08:12:41 Vital Recorder Entry
+
+1793_NWCR   =T  
+
+04-04-23 08:12:41 Vital Recorder Entry
+
+1793_NWCRI  =T  
+
+04-04-23 08:12:37 Vital Recorder Entry
+
+1793_RWCR   =F  
+
+04-04-23 08:12:36 Vital Recorder Entry
+
+1793_RWCRI  =F  
+
+04-04-23 08:12:34 Vital Recorder Entry
+
+6963AT_W40EB=F  6963AT_WEOB =T  
+
+04-04-23 08:12:34 Vital Recorder Entry
+
+WBT_C2_IN   =T  WBT_C7_IN   =F  
+
+04-04-23 08:12:04 Vital Recorder Entry
+
+6671TP      =T  
+
+04-04-23 08:11:48 Vital Recorder Entry
+
+6672TP      =T  
+
+04-04-23 08:11:37 Vital Recorder Entry
+
+6671TP      =F  
+
+04-04-23 08:10:51 Vital Recorder Entry
+
+6723TP      =T  
+
+04-04-23 08:10:42 Vital Recorder Entry
+
+6672TP      =F  
+
+04-04-23 08:10:30 Non-Vital Recorder Entry
+
+CTC_LK      =F  CTC_6963TK  =F  
+
+04-04-23 08:10:30 Vital Recorder Entry
+
+OSTPR       =T  LR          =T  WBT_FSR     =F  ET_TDR      =F
+1TK         =F  EC_SR       =F  6963TP      =T  6826T_WEOB1 =T
+6963T_L     =T  6963T_ESR   =T  6826T_WCEN  =T  6826T_WEOB  =T
+ET_C2_OUT   =T  ET_C6_OUT   =F  6963TP2O    =T  6963AT_WAL2O=T
+
+
+04-04-23 08:10:30 Vital Recorder Entry
+
+1TPR        =T  
+
+04-04-23 08:10:27 Vital Recorder Entry
+
+6963ATP     =T  6963AT_L    =T  6963AT_ESR  =T  6963ATP2O   =T
+
+
+04-04-23 08:10:27 Vital Recorder Entry
+
+1ATPR       =T  
+
+04-04-23 08:10:21 Non-Vital Recorder Entry
+
+CTC_6826TK  =T  
+
+04-04-23 08:10:21 Vital Recorder Entry
+
+EC_ASR      =T  ET_HDR      =F  E_RCXR      =F  ETPR        =F
+ETK         =T  6963AT_E40EB=F  6826T_WCS   =T  6963AT_ECEN =F
+6963AT_ECS  =F  6826TP      =F  6963AT_CEN  =F  6963AT_40EB =F
+6826TP2O    =F  
+
+04-04-23 08:10:21 Vital Recorder Entry
+
+WBT_HDR     =T  6963AT_W40EB=T  6963AT_WEOB =F  ET_C1_IN    =F
+ET_C2_IN    =F  
+
+04-04-23 08:10:21 Vital Recorder Entry
+
+WBT_C7_IN   =T  
+
+04-04-23 08:10:19 Vital Recorder Entry
+
+1TPREN      =T  
+
+04-04-23 08:10:19 Vital Recorder Entry
+
+1TR         =T  
+
+04-04-23 08:10:18 Non-Vital Recorder Entry
+
+CTC_ECAK    =F  
+
+04-04-23 08:10:18 Vital Recorder Entry
+
+WBTPR       =T  WBTK        =F  26964T_ECS  =F  6963AT_WEOB =T
+26964T_EEOB2=F  26964T_EEOB1=F  26964TP     =T  26964T_WSR  =T
+26964T_EEOB =T  26964T_WSR2O=T  
+
+04-04-23 08:10:18 Vital Recorder Entry
+
+WBT_C1_IN   =T  
+
+04-04-23 08:10:17 Vital Recorder Entry
+
+26964T_EALI =T  
+
+04-04-23 08:10:16 Vital Recorder Entry
+
+1ATPREN     =T  
+
+04-04-23 08:10:16 Vital Recorder Entry
+
+1ATR        =T  
+
+04-04-23 08:10:14 Vital Recorder Entry
+
+6963TP      =F  6963TP2O    =F  
+
+04-04-23 08:10:14 Vital Recorder Entry
+
+1TPREN      =F  1TPR        =F  
+
+04-04-23 08:10:14 Vital Recorder Entry
+
+1TR         =F  
+
+04-04-23 08:10:13 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 08:10:12 Non-Vital Recorder Entry
+
+RWZ         =F  
+
+04-04-23 08:10:10 Vital Recorder Entry
+
+WBLCANZ     =T  ETBLCANZ    =T  
+
+04-04-23 08:10:09 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 08:10:09 Non-Vital Recorder Entry
+
+RWZ         =T  DLVRY       =T  CTC_EGZ     =F  
+
+04-04-23 08:10:04 Non-Vital Recorder Entry
+
+CTC_EGK     =F  CTC_6963TK  =T  
+
+04-04-23 08:10:04 Vital Recorder Entry
+
+OSTPR       =F  ECGZ        =F  ECY         =F  ECHR        =F
+ECGZP       =F  ECRCR       =F  1TK         =T  ECGR        =F
+26964T_EEOB2=T  6963ATP     =F  26964T_ECEN =F  26964T_E4020=F
+WBT_C2_OUT  =T  WBT_C4_OUT  =F  ECYE        =F  ECRE        =T
+6963ATP2O   =F  1766_ECHR2O =F  6963AT_WAL2O=F  
+
+04-04-23 08:10:04 Vital Recorder Entry
+
+1ATPREN     =F  1ATPR       =F  
+
+04-04-23 08:10:04 Vital Recorder Entry
+
+1ATR        =F  
+
+04-04-23 08:08:54 Non-Vital Recorder Entry
+
+CTC_LK      =T  CTC_EGK     =T  
+
+04-04-23 08:08:54 Vital Recorder Entry
+
+EC_ASR      =F  ET_HDR      =T  LR          =F  ECY         =T
+ECHR        =T  ET_TDR      =T  ECRCR       =T  E_RCXR      =T
+ECGR        =T  EC_SR       =T  6963AT_E40EB=T  6963AT_ECEN =T
+6963AT_EEOB =F  6963AT_ECS  =T  6826T_L     =F  6826T_ESR   =F
+6963T_L     =F  6963T_ESR   =F  6963AT_L    =F  6963AT_ESR  =F
+6826T_WEOB  =F  ET_C2_OUT   =F  ET_C6_OUT   =T  26964T_E4020=T
+26964T_EEOB =F  WBT_C2_OUT  =F  WBT_C4_OUT  =T  ECYE        =T
+ECRE        =F  6963AT_CEN  =T  6963AT_40EB =T  1766_ECHR2O =T
+
+
+04-04-23 08:08:54 Vital Recorder Entry
+
+ET_C2_IN    =T  
+
+04-04-23 08:08:49 Non-Vital Recorder Entry
+
+CTC_6826TK  =F  
+
+04-04-23 08:08:49 Vital Recorder Entry
+
+ETPR        =T  ETK         =F  6826T_WCS   =F  6963AT_EEOB =T
+6826T_L     =T  6826T_ESR   =T  6826T_WEOB1 =F  6826TP      =T
+6826T_WCEN  =F  6826TP2O    =T  
+
+04-04-23 08:08:49 Vital Recorder Entry
+
+ET_C1_IN    =T  
+
+04-04-23 08:08:42 Vital Recorder Entry
+
+6723TP      =F  
+
+04-04-23 08:07:54 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 08:07:53 Non-Vital Recorder Entry
+
+RWZ         =F  
+
+04-04-23 08:07:52 Vital Recorder Entry
+
+ECGZ        =T  ECGZP       =T  
+
+04-04-23 08:07:51 Vital Recorder Entry
+
+WBLCANZ     =T  ETBLCANZ    =T  
+
+04-04-23 08:07:50 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 08:07:50 Non-Vital Recorder Entry
+
+RWZ         =T  DLVRY       =T  CTC_EGZ     =T  
+
+04-04-23 08:07:46 Non-Vital Recorder Entry
+
+CTC_RWK     =T  
+
+04-04-23 08:07:46 Vital Recorder Entry
+
+RWTEN       =F  RWCR        =T  RWR         =F  1762_RWCR2O =T
+
+
+04-04-23 08:07:45 Vital Recorder Entry
+
+RWP         =T  
+
+04-04-23 08:07:45 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 08:07:44 Non-Vital Recorder Entry
+
+RWZ         =F  
+
+04-04-23 08:07:43 Vital Recorder Entry
+
+NWP         =F  
+
+04-04-23 08:07:42 Non-Vital Recorder Entry
+
+CTC_NWK     =F  
+
+04-04-23 08:07:42 Vital Recorder Entry
+
+RWTEN       =T  WBLCANZ     =T  NWCR        =F  ETBLCANZ    =T
+NWZR        =F  RWZR        =T  RWR         =T  6963T_WEOB  =F
+1762_NWCR2O =F  
+
+04-04-23 08:07:41 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 08:07:41 Non-Vital Recorder Entry
+
+RWZ         =T  DLVRY       =T  CTC_NWZ     =F  CTC_RWZ     =T
+
+
+04-04-23 08:06:38 Non-Vital Recorder Entry
+
+CTC_LK      =F  CTC_6963TK  =F  
+
+04-04-23 08:06:38 Vital Recorder Entry
+
+OSTPR       =T  LR          =T  WAT_FSR     =F  ET_TDR      =F
+1TK         =F  EA_SR       =F  6963TP      =T  6826T_WEOB1 =T
+6963T_L     =T  6963T_ESR   =T  6826T_WCEN  =T  6826T_WEOB  =T
+ET_C2_OUT   =T  ET_C6_OUT   =F  6963TP2O    =T  6963T_WAL2O =T
+
+
+04-04-23 08:06:38 Vital Recorder Entry
+
+1TPR        =T  
+
+04-04-23 08:06:31 Non-Vital Recorder Entry
+
+CTC_6826TK  =T  
+
+04-04-23 08:06:31 Vital Recorder Entry
+
+EA_ASR      =T  ET_HDR      =F  E_RCXR      =F  ETPR        =F
+ETK         =T  EARK        =F  6826T_WCS   =T  6963T_ECS   =F
+6826TP      =F  6963T_ECEN  =F  6963T_E4020 =F  6826TP2O    =F
+
+
+04-04-23 08:06:30 Vital Recorder Entry
+
+ET_C1_IN    =F  ET_C7_IN    =F  
+
+04-04-23 08:06:30 Vital Recorder Entry
+
+WAT_HDR     =T  WAT_FSR     =T  WN_RCXR     =T  
+
+04-04-23 08:06:29 Vital Recorder Entry
+
+WAT_C2_IN   =T  
+
+04-04-23 08:06:28 Vital Recorder Entry
+
+16964T_EALI =T  
+
+04-04-23 08:06:27 Vital Recorder Entry
+
+1TPREN      =T  
+
+04-04-23 08:06:27 Vital Recorder Entry
+
+1TR         =T  
+
+04-04-23 08:06:27 Non-Vital Recorder Entry
+
+CTC_EAAK    =F  
+
+04-04-23 08:06:27 Vital Recorder Entry
+
+WATPR       =T  WATK        =F  16964T_ECS  =F  16964T_EEOB2=F
+16964T_EEOB1=F  16964TP     =T  16964T_ESR  =T  16964T_EEOB =T
+6963T_WEOB  =T  
+
+04-04-23 08:06:27 Vital Recorder Entry
+
+WAT_C1_IN   =T  
+
+04-04-23 08:06:22 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 08:06:22 Non-Vital Recorder Entry
+
+NWZ         =F  
+
+04-04-23 08:06:19 Vital Recorder Entry
+
+WBLCANZ     =T  ETBLCANZ    =T  
+
+04-04-23 08:06:19 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 08:06:19 Non-Vital Recorder Entry
+
+NWZ         =T  DLVRY       =T  CTC_EGZ     =F  
+
+04-04-23 08:06:14 Non-Vital Recorder Entry
+
+CTC_EGK     =F  CTC_6963TK  =T  
+
+04-04-23 08:06:14 Vital Recorder Entry
+
+OSTPR       =F  EAGZ        =F  EAGZP       =F  EARCR       =F
+EAHR        =F  EAGR        =F  1TK         =T  EAG         =F
+EARK        =T  EAR         =T  6963TP      =F  16964T_EEOB2=T
+16964T_ECEN =F  16964T_E4020=F  WAT_C2_OUT  =T  WAT_C7_OUT  =F
+EAGE        =F  EARE        =T  6963TP2O    =F  1766_EAHR2O =F
+6963T_WAL2O =F  
+
+04-04-23 08:06:14 Vital Recorder Entry
+
+1TPREN      =F  1TPR        =F  
+
+04-04-23 08:06:14 Vital Recorder Entry
+
+1TR         =F  
+
+04-04-23 08:05:43 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 08:05:42 Non-Vital Recorder Entry
+
+NWZ         =F  
+
+04-04-23 08:05:41 Non-Vital Recorder Entry
+
+CTC_LK      =T  CTC_EGK     =T  
+
+04-04-23 08:05:41 Vital Recorder Entry
+
+EA_ASR      =F  EAGZ        =T  LR          =F  EAGZP       =T
+ET_TDR      =T  EARCR       =T  EAHR        =T  EAGR        =T
+EA_SR       =T  EAG         =T  EAR         =F  6963T_ECS   =T
+6826T_L     =F  6826T_ESR   =F  6963T_L     =F  6963T_ESR   =F
+6826T_WEOB  =F  16964T_E4020=T  16964T_EEOB =F  ET_C2_OUT   =F
+ET_C6_OUT   =T  WAT_C2_OUT  =F  WAT_C7_OUT  =T  EAGE        =T
+EARE        =F  6963T_ECEN  =T  1766_EAHR2O =T  
+
+04-04-23 08:05:40 Vital Recorder Entry
+
+WBLCANZ     =T  ETBLCANZ    =T  
+
+04-04-23 08:05:39 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 08:05:39 Non-Vital Recorder Entry
+
+NWZ         =T  DLVRY       =T  CTC_EGZ     =T  
+
+04-04-23 08:05:35 Non-Vital Recorder Entry
+
+CTC_NWK     =T  
+
+04-04-23 08:05:35 Vital Recorder Entry
+
+NWTEN       =F  NWCR        =T  NWR         =F  6963T_E4020 =T
+1762_NWCR2O =T  
+
+04-04-23 08:05:34 Vital Recorder Entry
+
+NWP         =T  
+
+04-04-23 08:05:33 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 08:05:33 Non-Vital Recorder Entry
+
+NWZ         =F  
+
+04-04-23 08:05:31 Vital Recorder Entry
+
+RWP         =F  
+
+04-04-23 08:05:30 Non-Vital Recorder Entry
+
+CTC_RWK     =F  
+
+04-04-23 08:05:30 Vital Recorder Entry
+
+NWTEN       =T  WBLCANZ     =T  RWCR        =F  ETBLCANZ    =T
+NWZR        =T  RWZR        =F  6963AT_E4020=F  NWR         =T
+1762_RWCR2O =F  
+
+04-04-23 08:05:30 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 08:05:30 Non-Vital Recorder Entry
+
+NWZ         =T  DLVRY       =T  CTC_NWZ     =T  CTC_RWZ     =F
+
+
+04-04-23 08:05:17 Vital Recorder Entry
+
+ET_HDR      =T  E_RCXR      =T  6963AT_E4020=T  6963AT_EEOB =F
+
+
+04-04-23 08:05:17 Vital Recorder Entry
+
+ET_C7_IN    =T  
+
+04-04-23 08:05:15 Non-Vital Recorder Entry
+
+CTC_LK      =F  CTC_6963TK  =F  
+
+04-04-23 08:05:15 Vital Recorder Entry
+
+WBT_TDR     =F  OSTPR       =T  LR          =T  W_SR        =F
+1TK         =F  26964T_EEOB1=T  6963ATP     =T  6963AT_WSR  =T
+6963AT_L    =T  26964T_ECEN =T  26964T_EEOB =T  WBT_C2_OUT  =T
+WBT_C6_OUT  =F  6963ATP2O   =T  6963AT_WAL2O=T  
+
+04-04-23 08:05:15 Vital Recorder Entry
+
+1ATPR       =T  
+
+04-04-23 08:05:12 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 08:05:12 Non-Vital Recorder Entry
+
+RWZ         =F  
+
+04-04-23 08:05:10 Vital Recorder Entry
+
+6963TP      =T  6963T_WSR   =T  6963T_L     =T  6963TP2O    =T
+
+
+04-04-23 08:05:10 Vital Recorder Entry
+
+1TPR        =T  
+
+04-04-23 08:05:10 Non-Vital Recorder Entry
+
+CTC_MCK     =T  
+
+04-04-23 08:05:10 Vital Recorder Entry
+
+MCK         =T  
+
+04-04-23 08:05:09 Vital Recorder Entry
+
+WBLCANZ     =T  ETBLCANZ    =T  MCR         =T  
+
+04-04-23 08:05:09 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 08:05:09 Non-Vital Recorder Entry
+
+RWZ         =T  DLVRY       =T  CTC_MCZ     =T  
+
+04-04-23 08:05:08 Non-Vital Recorder Entry
+
+CTC_ECAK    =T  
+
+04-04-23 08:05:08 Vital Recorder Entry
+
+WASR        =T  WBT_HDR     =F  WBTPR       =F  WBTK        =T
+WRK         =F  6963AT_W40EB=F  26964T_ECS  =T  6963AT_WCEN =F
+6963AT_WCS  =F  26964TP     =F  6963AT_CEN  =F  6963AT_40EB =F
+26964T_PRC2O=F  
+
+04-04-23 08:05:08 Vital Recorder Entry
+
+WBT_C1_IN   =F  WBT_C7_IN   =F  
+
+04-04-23 08:05:07 Vital Recorder Entry
+
+26964T_EALI =F  
+
+04-04-23 08:05:07 Non-Vital Recorder Entry
+
+CTC_6826TK  =F  
+
+04-04-23 08:05:07 Vital Recorder Entry
+
+ETPR        =T  ETK         =F  6826T_WCS   =F  6963AT_EEOB =T
+6826T_L     =T  6826T_WSR   =T  6826T_WEOB2 =F  6826T_WEOB1 =F
+6826TP      =T  6826T_WEOB  =T  6826TP2O    =T  
+
+04-04-23 08:05:06 Vital Recorder Entry
+
+ET_C1_IN    =T  
+
+04-04-23 08:05:05 Vital Recorder Entry
+
+1ATPREN     =T  WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 08:05:04 Vital Recorder Entry
+
+1ATR        =T  
+
+04-04-23 08:05:04 Non-Vital Recorder Entry
+
+RWZ         =F  
+
+04-04-23 08:05:02 Vital Recorder Entry
+
+WBLCANZ     =T  ETBLCANZ    =T  
+
+04-04-23 08:05:01 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 08:05:01 Non-Vital Recorder Entry
+
+RWZ         =T  DLVRY       =T  CTC_WGZ     =F  
+
+04-04-23 08:05:00 Vital Recorder Entry
+
+1TPREN      =T  
+
+04-04-23 08:04:59 Vital Recorder Entry
+
+1TR         =T  
+
+04-04-23 08:04:58 Vital Recorder Entry
+
+6963ATP     =F  6963ATP2O   =F  26964T_PRC2O=T  
+
+04-04-23 08:04:58 Vital Recorder Entry
+
+1ATPREN     =F  1ATPR       =F  
+
+04-04-23 08:04:58 Vital Recorder Entry
+
+1ATR        =F  
+
+04-04-23 08:04:56 Non-Vital Recorder Entry
+
+CTC_WGK     =F  CTC_6963TK  =T  
+
+04-04-23 08:04:56 Vital Recorder Entry
+
+OSTPR       =F  WGZ         =F  WGZP        =F  WBT_FSR     =T
+WHR         =F  WGR         =F  WRCR        =F  WBG         =F
+WRK         =T  1TK         =T  WBR         =T  6963TP      =F
+6826T_WEOB2 =T  6826T_WCEN  =F  6826T_W40EB =F  ET_C2_OUT   =T
+ET_C3_OUT   =F  WBGE        =F  WBRE        =T  6963TP2O    =F
+
+
+04-04-23 08:04:56 Vital Recorder Entry
+
+1TPREN      =F  1TPR        =F  
+
+04-04-23 08:04:56 Vital Recorder Entry
+
+1TR         =F  
+
+04-04-23 08:03:02 Vital Recorder Entry
+
+6723TP      =T  6672T_WSR   =T  
+
+04-04-23 08:03:02 Vital Recorder Entry
+
+6672T_WSRI  =T  6826T_PRCI  =F  
+
+04-04-23 08:02:55 Non-Vital Recorder Entry
+
+CTC_6826TK  =T  
+
+04-04-23 08:02:55 Vital Recorder Entry
+
+W_SR        =T  ETPR        =F  ETK         =T  6963AT_WCEN =T
+6963AT_WCS  =T  6826T_PRC   =F  6826TP      =F  6963AT_CEN  =T
+6963AT_40EB =T  6826TP2O    =F  6963AT_WAL2O=F  
+
+04-04-23 08:02:55 Vital Recorder Entry
+
+ET_C1_IN    =F  
+
+04-04-23 08:01:29 Vital Recorder Entry
+
+ET_C6_IN    =F  
+
+04-04-23 08:01:26 Vital Recorder Entry
+
+6672TP      =T  
+
+04-04-23 08:01:23 Vital Recorder Entry
+
+ET_C6_IN    =T  
+
+04-04-23 08:01:19 Vital Recorder Entry
+
+6826T_WCS   =T  6723TP      =F  6826T_WEOB1 =T  6826T_PRC   =T
+6826T_WCEN  =T  
+
+04-04-23 08:01:19 Vital Recorder Entry
+
+6826T_PRCI  =T  
+
+04-04-23 08:00:41 Vital Recorder Entry
+
+6671TP      =T  
+
+04-04-23 08:00:35 Vital Recorder Entry
+
+6671ATP     =T  
+
+04-04-23 08:00:32 Vital Recorder Entry
+
+6672TP      =F  
+
+04-04-23 08:00:22 Vital Recorder Entry
+
+6671TP      =F  
+
+04-04-23 08:00:15 Vital Recorder Entry
+
+6671ATP     =F  
+
+04-04-23 08:00:07 Vital Recorder Entry
+
+WBG         =T  WBY         =F  6963AT_W40EB=T  6963AT_WEOB =F
+6826T_W40EB =T  6826T_W30EB =F  ET_C3_OUT   =T  ET_C4_OUT   =F
+WBGE        =T  WBYE        =F  
+
+04-04-23 08:00:07 Vital Recorder Entry
+
+WBT_C2_IN   =F  WBT_C7_IN   =T  
+
+04-04-23 07:59:53 Vital Recorder Entry
+
+1793_RWCR   =T  
+
+04-04-23 07:59:53 Vital Recorder Entry
+
+1793_RWCRI  =T  
+
+04-04-23 07:59:49 Vital Recorder Entry
+
+1793_NWCR   =F  
+
+04-04-23 07:59:49 Vital Recorder Entry
+
+1793_NWCRI  =F  
+
+04-04-23 07:59:35 Vital Recorder Entry
+
+7021TP      =T  7021T_ESR   =T  
+
+04-04-23 07:59:34 Vital Recorder Entry
+
+7021T_ESRI  =T  
+
+04-04-23 07:59:28 Vital Recorder Entry
+
+16964T_PRCI =F  
+
+04-04-23 07:59:26 Non-Vital Recorder Entry
+
+CTC_EAAK    =T  
+
+04-04-23 07:59:26 Vital Recorder Entry
+
+WATPR       =F  WATK        =T  16964T_PRC  =F  16964TP     =F
+
+
+04-04-23 07:59:26 Vital Recorder Entry
+
+WAT_C1_IN   =F  
+
+04-04-23 07:59:20 Vital Recorder Entry
+
+17023TP     =T  
+
+04-04-23 07:59:08 Vital Recorder Entry
+
+16964T_ECS  =T  16964T_EEOB1=T  16964T_PRC  =T  7021TP      =F
+16964T_ECEN =T  
+
+04-04-23 07:59:08 Vital Recorder Entry
+
+16964T_PRCI =T  
+
+04-04-23 07:59:02 Vital Recorder Entry
+
+17023TP     =F  
+
+04-04-23 07:59:02 Vital Recorder Entry
+
+16964T_EALI =F  
+
+04-04-23 07:44:50 Vital Recorder Entry
+
+ET_C6_IN    =F  
+
+04-04-23 07:44:45 Vital Recorder Entry
+
+ET_HDR      =F  E_RCXR      =F  6963AT_E4020=F  
+
+04-04-23 07:44:44 Vital Recorder Entry
+
+ET_C4_IN    =F  ET_C6_IN    =T  
+
+04-04-23 07:44:30 Vital Recorder Entry
+
+6826T_L     =F  6826T_WSR   =F  6672T_WSR   =F  
+
+04-04-23 07:44:29 Vital Recorder Entry
+
+6672T_WSRI  =F  
+
+04-04-23 07:43:52 Vital Recorder Entry
+
+6963AT_E40EB=F  6963AT_E4020=T  
+
+04-04-23 07:43:52 Vital Recorder Entry
+
+ET_C2_IN    =F  ET_C4_IN    =T  
+
+04-04-23 07:43:49 Vital Recorder Entry
+
+6671TP      =T  
+
+04-04-23 07:43:34 Vital Recorder Entry
+
+6672TP      =T  
+
+04-04-23 07:43:22 Vital Recorder Entry
+
+6671TP      =F  
+
+04-04-23 07:42:35 Vital Recorder Entry
+
+6723TP      =T  
+
+04-04-23 07:42:28 Vital Recorder Entry
+
+6672TP      =F  
+
+04-04-23 07:40:33 Vital Recorder Entry
+
+ET_HDR      =T  E_RCXR      =T  6963AT_E40EB=T  6963AT_EEOB =F
+
+
+04-04-23 07:40:32 Vital Recorder Entry
+
+ET_C2_IN    =T  
+
+04-04-23 07:40:27 Non-Vital Recorder Entry
+
+CTC_6826TK  =F  
+
+04-04-23 07:40:27 Vital Recorder Entry
+
+W_SR        =F  ETPR        =T  ETK         =F  6826T_WCS   =F
+6963AT_EEOB =T  6963AT_WCEN =F  6963AT_WCS  =F  6826T_L     =T
+6826T_ESR   =T  6826T_WEOB1 =F  6826TP      =T  6826T_WCEN  =F
+6963AT_CEN  =F  6963AT_EOB  =F  6826TP2O    =T  6963AT_WAL2O=T
+
+
+04-04-23 07:40:27 Vital Recorder Entry
+
+ET_C1_IN    =T  
+
+04-04-23 07:40:21 Vital Recorder Entry
+
+6723TP      =F  
+
+04-04-23 07:40:09 Vital Recorder Entry
+
+WAT_C6_IN   =F  
+
+04-04-23 07:40:04 Vital Recorder Entry
+
+WAT_HDR     =F  WN_RCXR     =F  
+
+04-04-23 07:40:04 Vital Recorder Entry
+
+WAT_C2_IN   =F  WAT_C6_IN   =T  
+
+04-04-23 07:40:00 Vital Recorder Entry
+
+16964T_ESR  =F  7021T_ESR   =F  
+
+04-04-23 07:40:00 Vital Recorder Entry
+
+7021T_ESRI  =F  
+
+04-04-23 07:39:53 Vital Recorder Entry
+
+1793_NWCR   =T  
+
+04-04-23 07:39:52 Vital Recorder Entry
+
+1793_NWCRI  =T  
+
+04-04-23 07:39:51 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 07:39:50 Non-Vital Recorder Entry
+
+RWZ         =F  
+
+04-04-23 07:39:48 Non-Vital Recorder Entry
+
+CTC_LK      =T  CTC_WGK     =T  
+
+04-04-23 07:39:48 Vital Recorder Entry
+
+WASR        =F  WBT_TDR     =T  WGZ         =T  LR          =F
+WGZP        =T  W_SR        =T  WHR         =T  WGR         =T
+WRCR        =T  WBY         =T  WBR         =F  6963AT_WCEN =T
+6963AT_WCS  =T  6963T_WSR   =F  6963AT_WSR  =F  6963T_L     =F
+6963AT_L    =F  26964T_WSR  =F  6826T_W30EB =T  6826T_WEOB  =F
+ET_C2_OUT   =F  ET_C4_OUT   =T  26964T_EEOB =F  WBT_C2_OUT  =F
+WBT_C6_OUT  =T  WBYE        =T  WBRE        =F  6963AT_CEN  =T
+6963AT_EOB  =T  26964T_WSR2O=F  6963AT_WAL2O=F  
+
+04-04-23 07:39:48 Vital Recorder Entry
+
+1793_RWCR   =F  
+
+04-04-23 07:39:48 Vital Recorder Entry
+
+1793_RWCRI  =F  
+
+04-04-23 07:39:47 Vital Recorder Entry
+
+WBLCANZ     =T  ETBLCANZ    =T  
+
+04-04-23 07:39:47 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 07:39:47 Non-Vital Recorder Entry
+
+RWZ         =T  DLVRY       =T  CTC_WGZ     =T  
+
+04-04-23 07:39:42 Non-Vital Recorder Entry
+
+CTC_RWK     =T  
+
+04-04-23 07:39:42 Vital Recorder Entry
+
+RWTEN       =F  RWCR        =T  6963AT_WEOB =T  RWR         =F
+1762_RWCR2O =T  
+
+04-04-23 07:39:42 Vital Recorder Entry
+
+RWP         =T  
+
+04-04-23 07:39:41 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 07:39:41 Non-Vital Recorder Entry
+
+RWZ         =F  
+
+04-04-23 07:39:39 Vital Recorder Entry
+
+NWP         =F  
+
+04-04-23 07:39:38 Non-Vital Recorder Entry
+
+CTC_NWK     =F  
+
+04-04-23 07:39:38 Vital Recorder Entry
+
+RWTEN       =T  WBLCANZ     =T  NWCR        =F  ETBLCANZ    =T
+NWZR        =F  RWZR        =T  RWR         =T  6963T_WEOB  =F
+1762_NWCR2O =F  
+
+04-04-23 07:39:38 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 07:39:38 Non-Vital Recorder Entry
+
+RWZ         =T  DLVRY       =T  CTC_NWZ     =F  CTC_RWZ     =T
+
+
+04-04-23 07:38:54 Vital Recorder Entry
+
+17023TP     =T  
+
+04-04-23 07:38:54 Vital Recorder Entry
+
+26964T_EALI =T  
+
+04-04-23 07:38:48 Vital Recorder Entry
+
+7021TP      =T  
+
+04-04-23 07:38:46 Vital Recorder Entry
+
+7021ATP     =T  
+
+04-04-23 07:38:37 Vital Recorder Entry
+
+17023TP     =F  
+
+04-04-23 07:38:35 Vital Recorder Entry
+
+WBT_HDR     =T  WBT_FSR     =F  
+
+04-04-23 07:38:35 Vital Recorder Entry
+
+WBT_C2_IN   =T  
+
+04-04-23 07:38:34 Vital Recorder Entry
+
+7021TP      =F  
+
+04-04-23 07:38:33 Non-Vital Recorder Entry
+
+CTC_ECAK    =F  
+
+04-04-23 07:38:33 Vital Recorder Entry
+
+WBTPR       =T  WBTK        =F  26964T_ECS  =F  26964T_EEOB1=F
+26964TP     =T  26964T_WSR  =T  26964T_ECEN =F  26964T_WSR2O=T
+
+
+04-04-23 07:38:32 Vital Recorder Entry
+
+WBT_C1_IN   =T  
+
+04-04-23 07:38:22 Vital Recorder Entry
+
+7021ATP     =F  
+
+04-04-23 07:38:20 Non-Vital Recorder Entry
+
+CTC_LK      =F  CTC_6963TK  =F  
+
+04-04-23 07:38:20 Vital Recorder Entry
+
+OSTPR       =T  LR          =T  WAT_FSR     =F  ET_TDR      =F
+1TK         =F  EA_SR       =F  6963TP      =T  6826T_WEOB1 =T
+6963T_L     =T  6963T_ESR   =T  6826T_WCEN  =T  6826T_WEOB  =T
+ET_C2_OUT   =T  ET_C6_OUT   =F  6963TP2O    =T  6963T_WAL2O =T
+
+
+04-04-23 07:38:20 Vital Recorder Entry
+
+1TPR        =T  
+
+04-04-23 07:38:14 Vital Recorder Entry
+
+WAT_HDR     =T  WAT_FSR     =T  WN_RCXR     =T  
+
+04-04-23 07:38:14 Vital Recorder Entry
+
+WAT_C2_IN   =T  
+
+04-04-23 07:38:13 Non-Vital Recorder Entry
+
+CTC_6826TK  =T  
+
+04-04-23 07:38:13 Vital Recorder Entry
+
+EA_ASR      =T  ET_HDR      =F  E_RCXR      =F  ETPR        =F
+ETK         =T  EARK        =F  6826T_WCS   =T  6963T_ECS   =F
+6826TP      =F  6963T_ECEN  =F  6963T_E4020 =F  6826TP2O    =F
+
+
+04-04-23 07:38:13 Vital Recorder Entry
+
+ET_C1_IN    =F  ET_C7_IN    =F  
+
+04-04-23 07:38:13 Vital Recorder Entry
+
+16964T_EALI =T  
+
+04-04-23 07:38:11 Non-Vital Recorder Entry
+
+CTC_EAAK    =F  
+
+04-04-23 07:38:11 Vital Recorder Entry
+
+WATPR       =T  WATK        =F  16964T_ECS  =F  16964T_EEOB2=F
+16964T_EEOB1=F  16964TP     =T  16964T_ESR  =T  16964T_EEOB =T
+6963T_WEOB  =T  
+
+04-04-23 07:38:11 Vital Recorder Entry
+
+WAT_C1_IN   =T  
+
+04-04-23 07:38:10 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 07:38:10 Vital Recorder Entry
+
+1TPREN      =T  
+
+04-04-23 07:38:09 Vital Recorder Entry
+
+1TR         =T  
+
+04-04-23 07:38:09 Non-Vital Recorder Entry
+
+NWZ         =F  
+
+04-04-23 07:38:07 Vital Recorder Entry
+
+WBLCANZ     =T  ETBLCANZ    =T  
+
+04-04-23 07:38:07 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 07:38:06 Non-Vital Recorder Entry
+
+NWZ         =T  DLVRY       =T  CTC_EGZ     =F  
+
+04-04-23 07:38:01 Non-Vital Recorder Entry
+
+CTC_EGK     =F  CTC_6963TK  =T  
+
+04-04-23 07:38:01 Vital Recorder Entry
+
+OSTPR       =F  EAGZ        =F  EAGZP       =F  EARCR       =F
+EAHR        =F  EAGR        =F  1TK         =T  EAG         =F
+EARK        =T  EAR         =T  6963TP      =F  16964T_EEOB2=T
+16964T_ECEN =F  16964T_E4020=F  WAT_C2_OUT  =T  WAT_C7_OUT  =F
+EAGE        =F  EARE        =T  6963TP2O    =F  1766_EAHR2O =F
+6963T_WAL2O =F  
+
+04-04-23 07:38:01 Vital Recorder Entry
+
+1TPREN      =F  1TPR        =F  
+
+04-04-23 07:38:00 Vital Recorder Entry
+
+1TR         =F  
+
+04-04-23 07:37:23 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 07:37:22 Non-Vital Recorder Entry
+
+NWZ         =F  
+
+04-04-23 07:37:21 Non-Vital Recorder Entry
+
+CTC_LK      =T  CTC_EGK     =T  
+
+04-04-23 07:37:21 Vital Recorder Entry
+
+EA_ASR      =F  EAGZ        =T  LR          =F  EAGZP       =T
+ET_TDR      =T  EARCR       =T  EAHR        =T  EAGR        =T
+EA_SR       =T  EAG         =T  EAR         =F  6963T_ECS   =T
+6826T_L     =F  6826T_ESR   =F  6963T_L     =F  6963T_ESR   =F
+6826T_WEOB  =F  16964T_E4020=T  16964T_EEOB =F  ET_C2_OUT   =F
+ET_C6_OUT   =T  WAT_C2_OUT  =F  WAT_C7_OUT  =T  EAGE        =T
+EARE        =F  6963T_ECEN  =T  1766_EAHR2O =T  
+
+04-04-23 07:37:20 Vital Recorder Entry
+
+WBLCANZ     =T  ETBLCANZ    =T  
+
+04-04-23 07:37:19 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 07:37:19 Non-Vital Recorder Entry
+
+NWZ         =T  DLVRY       =T  CTC_EGZ     =T  
+
+04-04-23 07:37:13 Non-Vital Recorder Entry
+
+CTC_NWK     =T  
+
+04-04-23 07:37:13 Vital Recorder Entry
+
+NWTEN       =F  NWCR        =T  NWR         =F  6963T_E4020 =T
+1762_NWCR2O =T  
+
+04-04-23 07:37:13 Vital Recorder Entry
+
+NWP         =T  
+
+04-04-23 07:37:12 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  
+
+04-04-23 07:37:12 Non-Vital Recorder Entry
+
+NWZ         =F  
+
+04-04-23 07:37:10 Vital Recorder Entry
+
+RWP         =F  
+
+04-04-23 07:37:09 Non-Vital Recorder Entry
+
+CTC_RWK     =F  
+
+04-04-23 07:37:09 Vital Recorder Entry
+
+NWTEN       =T  WBLCANZ     =T  RWCR        =F  ETBLCANZ    =T
+NWZR        =T  RWZR        =F  6963AT_E4020=F  NWR         =T
+1762_RWCR2O =F  
+
+04-04-23 07:37:09 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 07:37:09 Non-Vital Recorder Entry
+
+NWZ         =T  DLVRY       =T  CTC_NWZ     =T  CTC_RWZ     =F
+
+
+04-04-23 07:36:55 Vital Recorder Entry
+
+ET_HDR      =T  E_RCXR      =T  6963AT_E4020=T  6963AT_EEOB =F
+
+
+04-04-23 07:36:54 Vital Recorder Entry
+
+ET_C7_IN    =T  
+
+04-04-23 07:36:54 Non-Vital Recorder Entry
+
+CTC_LK      =F  CTC_6963TK  =F  
+
+04-04-23 07:36:54 Vital Recorder Entry
+
+WBT_TDR     =F  OSTPR       =T  LR          =T  W_SR        =F
+1TK         =F  26964T_EEOB1=T  6963ATP     =T  6963AT_WSR  =T
+6963AT_L    =T  26964T_ECEN =T  26964T_EEOB =T  WBT_C2_OUT  =T
+WBT_C6_OUT  =F  6963ATP2O   =T  6963AT_WAL2O=T  
+
+04-04-23 07:36:53 Vital Recorder Entry
+
+1ATPR       =T  
+
+04-04-23 07:36:49 Vital Recorder Entry
+
+6963TP      =T  6963T_WSR   =T  6963T_L     =T  6963TP2O    =T
+
+
+04-04-23 07:36:49 Vital Recorder Entry
+
+1TPR        =T  
+
+04-04-23 07:36:48 Vital Recorder Entry
+
+26964T_EALI =F  
+
+04-04-23 07:36:47 Non-Vital Recorder Entry
+
+CTC_6826TK  =F  
+
+04-04-23 07:36:47 Vital Recorder Entry
+
+ETPR        =T  ETK         =F  6826T_WCS   =F  6963AT_EEOB =T
+6826T_L     =T  6826T_WSR   =T  6826T_WEOB2 =F  6826T_WEOB1 =F
+6826TP      =T  6826T_WEOB  =T  6826TP2O    =T  
+
+04-04-23 07:36:47 Vital Recorder Entry
+
+ET_C1_IN    =T  
+
+04-04-23 07:36:46 Non-Vital Recorder Entry
+
+CTC_ECAK    =T  
+
+04-04-23 07:36:46 Vital Recorder Entry
+
+WASR        =T  WBT_HDR     =F  WBTPR       =F  WBTK        =T
+WRK         =F  6963AT_W40EB=F  26964T_ECS  =T  6963AT_WCEN =F
+6963AT_WCS  =F  26964TP     =F  6963AT_CEN  =F  6963AT_40EB =F
+26964T_PRC2O=F  
+
+04-04-23 07:36:46 Vital Recorder Entry
+
+WBT_C1_IN   =F  WBT_C7_IN   =F  
+
+04-04-23 07:36:43 Vital Recorder Entry
+
+1ATPREN     =T  
+
+04-04-23 07:36:43 Vital Recorder Entry
+
+WBLCANZ     =F  ETBLCANZ    =F  1ATR        =T  
+
+04-04-23 07:36:43 Non-Vital Recorder Entry
+
+RWZ         =F  
+
+04-04-23 07:36:40 Vital Recorder Entry
+
+WBLCANZ     =T  ETBLCANZ    =T  
+
+04-04-23 07:36:40 Non-Vital Recorder Entry
+
+DLVRY       =F  
+
+04-04-23 07:36:40 Non-Vital Recorder Entry
+
+RWZ         =T  DLVRY       =T  CTC_WGZ     =F  
+
+04-04-23 07:36:39 Vital Recorder Entry
+
+1TPREN      =T  
+
+04-04-23 07:36:38 Vital Recorder Entry
+
+1TR         =T  
+
+04-04-23 07:36:37 Vital Recorder Entry
+
+6963ATP     =F  6963ATP2O   =F  26964T_PRC2O=T  
+
+04-04-23 07:36:37 Vital Recorder Entry
+
+1ATPREN     =F  1ATPR       =F  
+
+04-04-23 07:36:37 Vital Recorder Entry
+
+1ATR        =F  
+
+04-04-23 07:36:35 Non-Vital Recorder Entry
+
+CTC_WGK     =F  CTC_6963TK  =T  
+
+04-04-23 07:36:35 Vital Recorder Entry
+
+OSTPR       =F  WGZ         =F  WGZP        =F  WBT_FSR     =T
+WHR         =F  WGR         =F  WRCR        =F  WBG         =F
+WRK         =T  1TK         =T  WBR         =T  6963TP      =F
+6826T_WEOB2 =T  6826T_WCEN  =F  6826T_W40EB =F  ET_C2_OUT   =T
+ET_C3_OUT   =F  WBGE        =F  WBRE        =T  6963TP2O    =F
+
+
+04-04-23 07:36:35 Vital Recorder Entry
+
+1TPREN      =F  1TPR        =F  
+
+04-04-23 07:36:35 Vital Recorder Entry
